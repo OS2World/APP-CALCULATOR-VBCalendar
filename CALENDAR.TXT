@@ -1,0 +1,28 @@
+Included are: 
+        Calendar.vbb, Calendar.lib (a static LIB), header files
+        a demo application named CalApp with vbb and code.
+
+What you can do:
+        Create applications with a popup calendar. 
+        Return the selected date string as mm-dd-yy or yyyymmdd to your application.
+
+This version of the popup calendar is offered as shareware, royalty free, donations accepted.
+
+Comments (cserve 75363,2075) are appreciated.
+
+
+A professional version (CalProVbb) is available for $49.00 US and includes vbbs and source.
+CalProVbb includes optional holiday indicators.
+A facility is provided to build a list of special dates with special attributes.
+For example July 4th could be displayed in red.
+
+Direct CalPro Inquiries to:
+        Don Henderson, cserve 75363,2075
+
+        Innovative Solutions, Inc
+        2934 Devils Glen Rd #352
+        Bettendord, IA  52722
+
+        (319) 349-0307 - voice
+        (319) 332-8698 - fax
+

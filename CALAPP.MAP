@@ -1,0 +1,1086 @@
+
+ CALAPP
+
+ Start         Length     Name                   Class
+ 0001:00000000 000031DE2H CODE32                 CODE 32-bit
+	at offset 00000000 002C2H bytes from D:\test\distribu\CalApp.o (CalApp.app)
+	at offset 000002c4 024A6H bytes from D:\test\distribu\CalApp.obj (CalApp.cpp)
+	at offset 0000276c 00021H bytes from D:\test\distribu\CalApp\IVBVPRTP.OBJ (CalApp\IVBVPRTP.cpp)
+	at offset 00002790 27BD2H bytes from D:\test\distribu\CALENDAR.LIB (Calendar.cpp)
+	at offset 0002a364 065F7H bytes from D:\test\distribu\CALENDAR.LIB (CalCtrl.cpp)
+	at offset 0003095c 00421H bytes from D:\test\distribu\CALENDAR.LIB (ClSelect.cpp)
+	at offset 00030d80 002DCH bytes from D:\test\distribu\CALENDAR.LIB (CalReset.cpp)
+	at offset 0003105c 004D2H bytes from D:\IBMCPP\LIB\CPPOM30I.LIB (E:\BUILD\CPPLIB\SOURCE\except.cpp)
+	at offset 00031530 000BAH bytes from D:\IBMCPP\LIB\CPPOM30I.LIB (E:\BUILD\RT\SRC\DDE4STRT.C)
+	at offset 000315ec 00007H bytes from D:\IBMCPP\LIB\CPPOM30I.LIB (E:\BUILD\RT\SRC\CPPINIT.ASM)
+	at offset 000315f4 001F8H bytes from D:\IBMCPP\LIB\CPPOM30I.LIB (E:\BUILD\RT\SRC\SETUPARG.ASM)
+	at offset 000317ec 0000DH bytes from D:\IBMCPP\LIB\CPPOM30I.LIB (E:\BUILD\RT\SRC\SCTDT.C)
+	at offset 000317fc 00005H bytes from D:\IBMCPP\LIB\CPPOM30I.LIB (E:\BUILD\RT\SRC\WCTDT.C)
+
+ 0001:00031DE4 00000028CH EH_CODE                CODE 32-bit
+	at offset 00000000 00039H bytes from D:\test\distribu\CalApp.o (CalApp.app)
+	at offset 0000003c 0008AH bytes from D:\test\distribu\CalApp.obj (CalApp.cpp)
+	at offset 000000c8 00037H bytes from D:\test\distribu\CalApp\IVBVPRTP.OBJ (CalApp\IVBVPRTP.cpp)
+	at offset 00000100 000ABH bytes from D:\test\distribu\CALENDAR.LIB (Calendar.cpp)
+	at offset 000001ac 00053H bytes from D:\test\distribu\CALENDAR.LIB (CalCtrl.cpp)
+	at offset 00000200 00053H bytes from D:\test\distribu\CALENDAR.LIB (ClSelect.cpp)
+	at offset 00000254 00037H bytes from D:\test\distribu\CALENDAR.LIB (CalReset.cpp)
+
+ 0002:00000000 000000710H CONST32_RO             CONST 32-bit
+	at offset 00000000 00018H bytes from D:\test\distribu\CalApp.o (CalApp.app)
+	at offset 00000018 000A0H bytes from D:\test\distribu\CalApp.obj (CalApp.cpp)
+	at offset 000000b8 00008H bytes from D:\test\distribu\CalApp\IVBVPRTP.OBJ (CalApp\IVBVPRTP.cpp)
+	at offset 000000c0 0012CH bytes from D:\test\distribu\CALENDAR.LIB (Calendar.cpp)
+	at offset 000001ec 004C0H bytes from D:\test\distribu\CALENDAR.LIB (CalCtrl.cpp)
+	at offset 000006ac 00034H bytes from D:\test\distribu\CALENDAR.LIB (ClSelect.cpp)
+	at offset 000006e0 00030H bytes from D:\test\distribu\CALENDAR.LIB (CalReset.cpp)
+
+ 0003:00000000 0000068BCH EH_DATA                CONST 32-bit
+	at offset 00000000 00058H bytes from D:\test\distribu\CalApp.o (CalApp.app)
+	at offset 00000058 00440H bytes from D:\test\distribu\CalApp.obj (CalApp.cpp)
+	at offset 00000498 00098H bytes from D:\test\distribu\CalApp\IVBVPRTP.OBJ (CalApp\IVBVPRTP.cpp)
+	at offset 00000530 050A4H bytes from D:\test\distribu\CALENDAR.LIB (Calendar.cpp)
+	at offset 000055d4 011E0H bytes from D:\test\distribu\CALENDAR.LIB (CalCtrl.cpp)
+	at offset 000067b4 00098H bytes from D:\test\distribu\CALENDAR.LIB (ClSelect.cpp)
+	at offset 0000684c 00070H bytes from D:\test\distribu\CALENDAR.LIB (CalReset.cpp)
+
+ 0004:00000000 000006060H _VFT                   CONST 32-bit
+	at offset 00000000 00930H bytes from D:\test\distribu\CalApp.obj (CalApp.cpp)
+	at offset 00000930 000E8H bytes from D:\test\distribu\CalApp\IVBVPRTP.OBJ (CalApp\IVBVPRTP.cpp)
+	at offset 00000a18 05170H bytes from D:\test\distribu\CALENDAR.LIB (Calendar.cpp)
+	at offset 00005b88 00370H bytes from D:\test\distribu\CALENDAR.LIB (CalCtrl.cpp)
+	at offset 00005ef8 000B8H bytes from D:\test\distribu\CALENDAR.LIB (ClSelect.cpp)
+	at offset 00005fb0 000B0H bytes from D:\test\distribu\CALENDAR.LIB (CalReset.cpp)
+
+ 0005:00000000 000000104H DATA32                 DATA 32-bit
+	at offset 00000000 000E8H bytes from D:\test\distribu\CALENDAR.LIB (CalCtrl.cpp)
+	at offset 000000e8 00004H bytes from D:\test\distribu\CALENDAR.LIB (ClSelect.cpp)
+	at offset 000000ec 00004H bytes from D:\test\distribu\CALENDAR.LIB (CalReset.cpp)
+	at offset 000000f0 00004H bytes from D:\IBMCPP\LIB\CPPOM30I.LIB (E:\BUILD\RT\SRC\EXEENTRY.ASM)
+	at offset 000000f4 00010H bytes from D:\IBMCPP\LIB\CPPOM30I.LIB (E:\BUILD\RT\SRC\SETUPARG.ASM)
+
+ 0005:00000104 000000000H CTOR_DTOR1             DATA 32-bit
+
+ 0005:00000104 000000000H CTOR_DTOR2             DATA 32-bit
+
+ 0005:00000104 000000000H CTOR_DTOR3             DATA 32-bit
+
+ 0005:00000104 000000000H EDC1                   EDC_CLASS 32-bit
+
+ 0005:00000104 000000018H EDC2                   EDC_CLASS 32-bit
+	at offset 00000000 0000CH bytes from D:\IBMCPP\LIB\CPPOM30I.LIB (E:\BUILD\RT\SRC\CPPINIT.ASM)
+	at offset 0000000c 0000CH bytes from D:\IBMCPP\LIB\CPPOM30I.LIB (E:\BUILD\RT\SRC\SETUPARG.ASM)
+
+ 0005:0000011C 000000000H EDC3                   EDC_CLASS 32-bit
+
+ 0005:0000011C 000000010H BSS32                  BSS 32-bit
+	at offset 00000000 00004H bytes from D:\test\distribu\CalApp.obj (CalApp.cpp)
+	at offset 00000004 00004H bytes from D:\test\distribu\CALENDAR.LIB (Calendar.cpp)
+	at offset 00000008 00008H bytes from D:\IBMCPP\LIB\CPPOM30I.LIB (E:\BUILD\RT\SRC\DDE4STRT.C)
+
+ 0005:0000012C 000000004H c_common               BSS 32-bit
+
+ 0005:00000130 000008000H STACK32                STACK 32-bit
+	at offset 00000000 08000H bytes from D:\IBMCPP\LIB\CPPOM30I.LIB (E:\BUILD\RT\SRC\EXEENTRY.ASM)
+
+
+ Origin   Group
+ 0000:0   FLAT
+ 0005:0   DGROUP
+
+ Address       Export                  Alias
+
+ 0002:000001E0 CalDateSelected__8Calendar  CalDateSelected__8Calendar
+ 0002:000001E4 CalDateString__8Calendar  CalDateString__8Calendar
+ 0002:000001E8 CalyyyymmddString__8Calendar  CalyyyymmddString__8Calendar
+ 0001:00000414 create__28CalAppCalendarFactoryFactoryFv  create__28CalAppCalendarFactoryFactoryFv
+ 0001:000005CC defaultFramingSpec__6CalAppFv  defaultFramingSpec__6CalAppFv
+ 0001:00002790 defaultFramingSpec__8CalendarFv  defaultFramingSpec__8CalendarFv
+ 0001:0000065C defaultStyle__6CalAppFv  defaultStyle__6CalAppFv
+ 0001:00000680 defaultTitle__6CalAppFv  defaultTitle__6CalAppFv
+ 0001:00002820 defaultTitle__8CalendarFv  defaultTitle__8CalendarFv
+ 0001:00012138 dispatchNotificationEvent__8CalendarFRC18INotificationEvent  dispatchNotificationEvent__8CalendarFRC18INotificationEvent
+ 0001:000012F8 initializePart__6CalAppFv  initializePart__6CalAppFv
+ 0001:0002AE4C initializePart__7CalCtrlFv  initializePart__7CalCtrlFv
+ 0001:0000DDC8 initializePart__8CalendarFv  initializePart__8CalendarFv
+ 0001:00030E88 initializePart__8CalResetFv  initializePart__8CalResetFv
+ 0001:00030AA0 initializePart__9CalSelectFv  initializePart__9CalSelectFv
+ 0001:000013CC makeConnections__6CalAppFv  makeConnections__6CalAppFv
+ 0001:0002AF1C makeConnections__7CalCtrlFv  makeConnections__7CalCtrlFv
+ 0001:0000DED4 makeConnections__8CalendarFv  makeConnections__8CalendarFv
+ 0001:00030F58 makeConnections__8CalResetFv  makeConnections__8CalResetFv
+ 0001:00030B70 makeConnections__9CalSelectFv  makeConnections__9CalSelectFv
+ 0005:0000011C partWindowId__6CalApp   partWindowId__6CalApp
+ 0005:00000120 partWindowId__8Calendar  partWindowId__8Calendar
+ 0002:000000B4 readyId__6CalApp        readyId__6CalApp
+ 0002:000006A8 readyId__7CalCtrl       readyId__7CalCtrl
+ 0002:000001DC readyId__8Calendar      readyId__8Calendar
+ 0002:0000070C readyId__8CalReset      readyId__8CalReset
+ 0002:000006DC readyId__9CalSelect     readyId__9CalSelect
+ 0001:000002C4 __ct__28CalAppCalendarFactoryFactoryFUl  __ct__28CalAppCalendarFactoryFactoryFUl
+ 0001:0000069C __ct__6CalAppFUlP7IWindowT2RC10IRectangleRCQ2_12IFrameWindow5StylePCc  __ct__6CalAppFUlP7IWindowT2RC10IRectangleRCQ2_12IFrameWindow5StylePCc
+ 0001:0002A364 __ct__7CalCtrlFv        __ct__7CalCtrlFv
+ 0001:0000283C __ct__8CalendarFUlP7IWindowT2RC10IRectangleRCQ2_12IFrameWindow5StylePCc  __ct__8CalendarFUlP7IWindowT2RC10IRectangleRCQ2_12IFrameWindow5StylePCc
+ 0001:00030D80 __ct__8CalResetFv       __ct__8CalResetFv
+ 0001:0003095C __ct__9CalSelectFv      __ct__9CalSelectFv
+ 0001:00000368 __dt__28CalAppCalendarFactoryFactoryFv  __dt__28CalAppCalendarFactoryFactoryFv
+ 0001:00000EC4 __dt__6CalAppFv         __dt__6CalAppFv
+ 0001:0002A7DC __dt__7CalCtrlFv        __dt__7CalCtrlFv
+ 0001:00009154 __dt__8CalendarFv       __dt__8CalendarFv
+ 0001:00030DF4 __dt__8CalResetFv       __dt__8CalResetFv
+ 0001:000309E8 __dt__9CalSelectFv      __dt__9CalSelectFv
+ 0004:00000890 __vft28CalAppCalendarFactoryFactory6IVBase  __vft28CalAppCalendarFactoryFactory6IVBase
+ 0004:00000000 __vft6CalApp6IVBase     __vft6CalApp6IVBase
+ 0004:00005B88 __vft7CalCtrl6IVBase    __vft7CalCtrl6IVBase
+ 0004:00000A50 __vft8Calendar9INotifier6IVBase  __vft8Calendar9INotifier6IVBase
+ 0004:00000A18 __vft8Calendar9IObserver6IVBase  __vft8Calendar9IObserver6IVBase
+ 0004:00005FB0 __vft8CalReset6IVBase   __vft8CalReset6IVBase
+ 0004:00005EF8 __vft9CalSelect6IVBase  __vft9CalSelect6IVBase
+
+  Address         Publics by Name
+
+ 0000:00000000  Imp  activeColor__7IWindowCFv (CPPOOU3.4213)
+ 0000:00000000  Imp  addExtension__12IFrameWindowFP7IWindowQ2_12IFrameWindow8LocationdQ2_12IFrameWindow13SeparatorType (CPPOOU3.3083)
+ 0000:00000000  Imp  addExtension__12IFrameWindowFP7IWindowQ2_12IFrameWindow8LocationiQ2_12IFrameWindow13SeparatorType (CPPOOU3.3143)
+ 0000:00000000  Imp  addExtension__12IFrameWindowFP7IWindowQ2_12IFrameWindow8LocationQ2_12IFrameWindow13SeparatorType (CPPOOU3.3048)
+ 0000:00000000  Imp  addExtension__12IFrameWindowFP7IWindowQ2_12IFrameWindow8LocationUlQ2_12IFrameWindow13SeparatorType (CPPOOU3.3169)
+ 0000:00000000  Imp  addObserver__17IStandardNotifierFR9IObserverRC10IEventData (CPPOOB3.459)
+ 0000:00000000  Imp  addObserver__7IWindowFR9IObserverRC10IEventData (CPPOOU3.4233)
+ 0000:00000000  Imp  addToWindowList__12IFrameWindowFv (CPPOOU3.3170)
+ 0000:00000000  Imp  applyBidiSettings__7IWindowFRCQ2_7IWindow12BidiSettingsiT2 (CPPOOU3.4276)
+ 0000:00000000  Imp  asDebugInfo__6IVBaseCFv (CPPOOB3.631)
+ 0000:00000000  Imp  asDebugInfo__7IWindowCFv (CPPOOU3.4232)
+ 0000:00000000  Imp  asString__5IDateCFQ2_5IDate10YearFormat (CPPOOB3.201)
+ 0000:00000000  Imp  asString__6IVBaseCFv (CPPOOB3.632)
+ 0000:00000000  Imp  asString__7IWindowCFv (CPPOOU3.4231)
+ 0000:00000000  Imp  backgroundColor__12IFrameWindowCFv (CPPOOU3.3151)
+ 0000:00000000  Imp  beginFlashing__12IFrameWindowFv (CPPOOU3.3098)
+ 0000:00000000  Imp  borderColor__7IWindowCFv (CPPOOU3.4194)
+ 0005:0000002C       BttnTxt10Id__7CalCtrl
+ 0001:0002E35C       BttnTxt10__7CalCtrlCFv
+ 0005:00000030       BttnTxt11Id__7CalCtrl
+ 0001:0002E470       BttnTxt11__7CalCtrlCFv
+ 0005:00000034       BttnTxt12Id__7CalCtrl
+ 0001:0002E584       BttnTxt12__7CalCtrlCFv
+ 0005:00000038       BttnTxt13Id__7CalCtrl
+ 0001:0002E698       BttnTxt13__7CalCtrlCFv
+ 0005:0000003C       BttnTxt14Id__7CalCtrl
+ 0001:0002E7AC       BttnTxt14__7CalCtrlCFv
+ 0005:00000040       BttnTxt15Id__7CalCtrl
+ 0001:0002E8C0       BttnTxt15__7CalCtrlCFv
+ 0005:00000044       BttnTxt16Id__7CalCtrl
+ 0001:0002E9D4       BttnTxt16__7CalCtrlCFv
+ 0005:00000048       BttnTxt17Id__7CalCtrl
+ 0001:0002EAE8       BttnTxt17__7CalCtrlCFv
+ 0005:0000004C       BttnTxt18Id__7CalCtrl
+ 0001:0002EBFC       BttnTxt18__7CalCtrlCFv
+ 0005:00000050       BttnTxt19Id__7CalCtrl
+ 0001:0002ED10       BttnTxt19__7CalCtrlCFv
+ 0005:00000008       BttnTxt1Id__7CalCtrl
+ 0001:0002D9A8       BttnTxt1__7CalCtrlCFv
+ 0005:00000054       BttnTxt20Id__7CalCtrl
+ 0001:0002EE24       BttnTxt20__7CalCtrlCFv
+ 0005:00000058       BttnTxt21Id__7CalCtrl
+ 0001:0002EF38       BttnTxt21__7CalCtrlCFv
+ 0005:0000005C       BttnTxt22Id__7CalCtrl
+ 0001:0002F04C       BttnTxt22__7CalCtrlCFv
+ 0005:00000060       BttnTxt23Id__7CalCtrl
+ 0001:0002F160       BttnTxt23__7CalCtrlCFv
+ 0005:00000064       BttnTxt24Id__7CalCtrl
+ 0001:0002F274       BttnTxt24__7CalCtrlCFv
+ 0005:00000068       BttnTxt25Id__7CalCtrl
+ 0001:0002F388       BttnTxt25__7CalCtrlCFv
+ 0005:0000006C       BttnTxt26Id__7CalCtrl
+ 0001:0002F4A4       BttnTxt26__7CalCtrlCFv
+ 0005:00000070       BttnTxt27Id__7CalCtrl
+ 0001:0002F5C0       BttnTxt27__7CalCtrlCFv
+ 0005:00000074       BttnTxt28Id__7CalCtrl
+ 0001:0002F6DC       BttnTxt28__7CalCtrlCFv
+ 0005:00000078       BttnTxt29Id__7CalCtrl
+ 0001:0002F7F8       BttnTxt29__7CalCtrlCFv
+ 0005:0000000C       BttnTxt2Id__7CalCtrl
+ 0001:0002DABC       BttnTxt2__7CalCtrlCFv
+ 0005:0000007C       BttnTxt30Id__7CalCtrl
+ 0001:0002F914       BttnTxt30__7CalCtrlCFv
+ 0005:00000080       BttnTxt31Id__7CalCtrl
+ 0001:0002FA30       BttnTxt31__7CalCtrlCFv
+ 0005:00000084       BttnTxt32Id__7CalCtrl
+ 0001:0002FB4C       BttnTxt32__7CalCtrlCFv
+ 0005:00000088       BttnTxt33Id__7CalCtrl
+ 0001:0002FC68       BttnTxt33__7CalCtrlCFv
+ 0005:0000008C       BttnTxt34Id__7CalCtrl
+ 0001:0002FD84       BttnTxt34__7CalCtrlCFv
+ 0005:00000090       BttnTxt35Id__7CalCtrl
+ 0001:0002FEA0       BttnTxt35__7CalCtrlCFv
+ 0005:00000094       BttnTxt36Id__7CalCtrl
+ 0001:0002FFBC       BttnTxt36__7CalCtrlCFv
+ 0005:00000098       BttnTxt37Id__7CalCtrl
+ 0001:000300D8       BttnTxt37__7CalCtrlCFv
+ 0005:00000010       BttnTxt3Id__7CalCtrl
+ 0001:0002DBD0       BttnTxt3__7CalCtrlCFv
+ 0005:00000014       BttnTxt4Id__7CalCtrl
+ 0001:0002DCE4       BttnTxt4__7CalCtrlCFv
+ 0005:00000018       BttnTxt5Id__7CalCtrl
+ 0001:0002DDF8       BttnTxt5__7CalCtrlCFv
+ 0005:0000001C       BttnTxt6Id__7CalCtrl
+ 0001:0002DF0C       BttnTxt6__7CalCtrlCFv
+ 0005:00000020       BttnTxt7Id__7CalCtrl
+ 0001:0002E020       BttnTxt7__7CalCtrlCFv
+ 0005:00000024       BttnTxt8Id__7CalCtrl
+ 0001:0002E134       BttnTxt8__7CalCtrlCFv
+ 0005:00000028       BttnTxt9Id__7CalCtrl
+ 0001:0002E248       BttnTxt9__7CalCtrlCFv
+ 0000:00000000  Imp  buttonClickId__7IButton (CPPOOU3.4635)
+ 0000:00000000  Imp  calcMinimumSize__7IWindowCFv (CPPOOU3.4085)
+ 0005:000000DC       calDateSelectedId__7CalCtrl
+ 0002:000001E0       CalDateSelected__8Calendar
+ 0002:000001E4       CalDateString__8Calendar
+ 0005:000000A0       calDisA1Id__7CalCtrl
+ 0005:000000B8       calDisA29Id__7CalCtrl
+ 0005:000000A4       calDisA2Id__7CalCtrl
+ 0005:000000BC       calDisA30Id__7CalCtrl
+ 0005:000000C0       calDisA31Id__7CalCtrl
+ 0005:000000C4       calDisA32Id__7CalCtrl
+ 0005:000000C8       calDisA33Id__7CalCtrl
+ 0005:000000CC       calDisA34Id__7CalCtrl
+ 0005:000000D0       calDisA35Id__7CalCtrl
+ 0005:000000D4       calDisA36Id__7CalCtrl
+ 0005:000000D8       calDisA37Id__7CalCtrl
+ 0005:000000A8       calDisA3Id__7CalCtrl
+ 0005:000000AC       calDisA4Id__7CalCtrl
+ 0005:000000B0       calDisA5Id__7CalCtrl
+ 0005:000000B4       calDisA6Id__7CalCtrl
+ 0001:0002B22C       calInit__7CalCtrlFv
+ 0001:0002B324       calMonthInit__7CalCtrlFv
+ 0001:0002D890       calNextMo__7CalCtrlFv
+ 0001:0002D930       calNextYr__7CalCtrlFv
+ 0001:0002D8F4       calPrevMo__7CalCtrlFv
+ 0001:0002D96C       calPrevYr__7CalCtrlFv
+ 0005:0000009C       calReadyId__7CalCtrl
+ 0001:00030F88       calReset__8CalResetFv
+ 0005:000000E8       CalSelectedDayId__9CalSelect
+ 0001:00030BA0       CalSelectedDay__9CalSelectCFv
+ 0001:0002B6D0       calSetBttns__7CalCtrlFv
+ 0002:000001E8       CalyyyymmddString__8Calendar
+ 0000:00000000  Imp  capturePointer__7IWindowFi (CPPOOU3.4146)
+ 0000:00000000  Imp  clientHandle__12IFrameWindowCFv (CPPOOU3.3085)
+ 0000:00000000  Imp  clientRectFor__12IFrameWindowCFRC10IRectangle (CPPOOU3.3064)
+ 0000:00000000  Imp  client__12IFrameWindowCFv (CPPOOU3.3055)
+ 0000:00000000  Imp  close__12IFrameWindowFv (CPPOOU3.3162)
+ 0000:00000000  Imp  convertToGUIStyle__12IFrameWindowCFRC8IBitFlagi (CPPOOU3.3122)
+ 0000:00000000  Imp  create__12IFrameWindowFUlPCcT1T2RC13IWindowHandleT5RC10IRectanglePCvT8Q2_7IWindow12SiblingOrder (CPPOOU3.3159)
+ 0001:00000414       create__28CalAppCalendarFactoryFactoryFv
+ 0000:00000000  Imp  current__12IApplicationFv (CPPOOU3.2727)
+ 0000:00000000  Imp  dayOfMonth__5IDateCFv (CPPOOB3.194)
+ 0000:00000000  Imp  daysInMonth__5IDateFQ2_5IDate5Monthi (CPPOOB3.190)
+ 0001:000005CC       defaultFramingSpec__6CalAppFv
+ 0001:00002790       defaultFramingSpec__8CalendarFv
+ 0000:00000000  Imp  defaultPushButton__7IWindowCFv (CPPOOU3.4123)
+ 0000:00000000  Imp  defaultStyle__11IPushButtonFv (CPPOOU3.5437)
+ 0000:00000000  Imp  defaultStyle__11IStaticTextFv (CPPOOU3.5800)
+ 0000:00000000  Imp  defaultStyle__12IFrameWindowFv (CPPOOU3.3077)
+ 0000:00000000  Imp  defaultStyle__15IAnimatedButtonFv (CPPOOU3.7887)
+ 0001:0000065C       defaultStyle__6CalAppFv
+ 0000:00000000  Imp  defaultStyle__7ICanvasFv (CPPOOU3.4643)
+ 0000:00000000  Imp  defaultStyle__8IListBoxFv (CPPOOU3.5079)
+ 0001:00000680       defaultTitle__6CalAppFv
+ 0001:00002820       defaultTitle__8CalendarFv
+ 0000:00000000  Imp  deleteId__17IStandardNotifier (CPPOOB3.461)
+ 0000:00000000  Imp  deleteId__7IWindow   (CPPOOU3.4240)
+ 0001:00031814       deleteTarget__22IVBVariablePartPointerXTP8Calendar_Fv
+ 0000:00000000  Imp  desktopWindow__7IWindowFv (CPPOOU3.4130)
+ 0000:00000000  Imp  disabledBackgroundColor__12IFrameWindowCFv (CPPOOU3.3165)
+ 0000:00000000  Imp  disabledForegroundColor__7IWindowCFv (CPPOOU3.4220)
+ 0000:00000000  Imp  disableNotification__17IStandardNotifierFv (CPPOOB3.468)
+ 0000:00000000  Imp  disableNotification__7IWindowFv (CPPOOU3.4248)
+ 0000:00000000  Imp  disableUpdate__7IWindowFv (CPPOOU3.4074)
+ 0000:00000000  Imp  disable__7IWindowFv  (CPPOOU3.4097)
+ 0000:00000000  Imp  dismiss__12IFrameWindowFUl (CPPOOU3.3136)
+ 0001:000319BC       dispatchNotificationEvent__22IVBVariablePartPointerXTP8Calendar_FRC18INotificationEvent
+ 0001:00012138       dispatchNotificationEvent__8CalendarFRC18INotificationEvent
+ 0000:00000000  Imp  DosExitList          (DOSCALLS.296)
+ 0000:00000000  Imp  DosSetExceptionHandler (DOSCALLS.354)
+ 0000:00000000  Imp  DosUnsetExceptionHandler (DOSCALLS.355)
+ 0000:00000000  Imp  enableNotification__12IFrameWindowFi (CPPOOU3.3173)
+ 0000:00000000  Imp  enableNotification__17IStandardNotifierFi (CPPOOB3.467)
+ 0000:00000000  Imp  enableUpdate__7IWindowFi (CPPOOU3.4143)
+ 0000:00000000  Imp  enable__7IWindowFi   (CPPOOU3.4126)
+ 0000:00000000  Imp  endFlashing__12IFrameWindowFv (CPPOOU3.3068)
+ 0000:00000000  Imp  exit                 (CPPOM30.exit)
+ 0000:00000000  Imp  extendedStyle__7IWindowCFv (CPPOOU3.4125)
+ 0000:00000000  Imp  font__7IWindowCFv    (CPPOOU3.4117)
+ 0000:00000000  Imp  foregroundColor__7IWindowCFv (CPPOOU3.4207)
+ 0000:00000000  Imp  frameRectFor__12IFrameWindowCFRC10IRectangle (CPPOOU3.3059)
+ 0000:00000000  Imp  free                 (CPPOM30.free)
+ 0000:00000000  Imp  handleException__7IWindowFR10IExceptionR6IEvent (CPPOOU3.4088)
+ 0000:00000000  Imp  handleFor__12IFrameWindowCFRCQ2_12IFrameWindow5Style (CPPOOU3.3051)
+ 0000:00000000  Imp  handleNotificationsFor__9IObserverFR9INotifierRC10IEventData (CPPOOB3.380)
+ 0000:00000000  Imp  handle__7IWindowCFv  (CPPOOU3.4094)
+ 0000:00000000  Imp  hasPointerCaptured__7IWindowCFv (CPPOOU3.4164)
+ 0000:00000000  Imp  hideSourceEmphasis__7IWindowFv (CPPOOU3.4078)
+ 0000:00000000  Imp  hide__7IWindowFv     (CPPOOU3.4079)
+ 0000:00000000  Imp  hiliteBackgroundColor__7IWindowCFv (CPPOOU3.4215)
+ 0000:00000000  Imp  hiliteForegroundColor__7IWindowCFv (CPPOOU3.4209)
+ 0000:00000000  Imp  icon__12IFrameWindowCFv (CPPOOU3.3106)
+ 0000:00000000  Imp  inactiveColor__7IWindowCFv (CPPOOU3.4211)
+ 0001:000012F8       initializePart__6CalAppFv
+ 0001:0002AE4C       initializePart__7CalCtrlFv
+ 0001:0000DDC8       initializePart__8CalendarFv
+ 0001:00030E88       initializePart__8CalResetFv
+ 0001:00030AA0       initializePart__9CalSelectFv
+ 0000:00000000  Imp  initialize__5IDateFQ2_5IDate5MonthiT2 (CPPOOB3.206)
+ 0000:00000000  Imp  isAnExtension__12IFrameWindowCFPC7IWindow (CPPOOU3.3050)
+ 0000:00000000  Imp  isAnExtension__12IFrameWindowFP7IWindow (CPPOOU3.2747)
+ 0000:00000000  Imp  isAutoDeleteTarget__20IVBVariableClassBaseCFv (CPPOOV3.103)
+ 0000:00000000  Imp  isEnabledForNotification__17IStandardNotifierCFv (CPPOOB3.462)
+ 0000:00000000  Imp  isEnabledForNotification__7IWindowCFv (CPPOOU3.4251)
+ 0000:00000000  Imp  isFrameWindow__7IWindowCFv (CPPOOU3.4104)
+ 0000:00000000  Imp  isGroup__7IWindowCFv (CPPOOU3.4153)
+ 0000:00000000  Imp  isLayoutDistorted__7IWindowCFUl (CPPOOU3.4082)
+ 0000:00000000  Imp  isTabStop__7IWindowCFv (CPPOOU3.4128)
+ 0000:00000000  Imp  layoutAdjustment__7IWindowCFv (CPPOOU3.4102)
+ 0000:00000000  Imp  localtime            (CPPOM30.localtime)
+ 0001:00000000       main
+ 0001:000013CC       makeConnections__6CalAppFv
+ 0001:0002AF1C       makeConnections__7CalCtrlFv
+ 0001:0000DED4       makeConnections__8CalendarFv
+ 0001:00030F58       makeConnections__8CalResetFv
+ 0001:00030B70       makeConnections__9CalSelectFv
+ 0000:00000000  Imp  malloc               (CPPOM30.malloc)
+ 0000:00000000  Imp  matchForMnemonic__7IWindowCFUs (CPPOOU3.4158)
+ 0000:00000000  Imp  maximizeRect__12IFrameWindowCFv (CPPOOU3.3146)
+ 0000:00000000  Imp  maximize__12IFrameWindowFv (CPPOOU3.3139)
+ 0000:00000000  Imp  maximum__5IPairCFRC5IPair (CPPOOB3.411)
+ 0000:00000000  Imp  minimizeRect__12IFrameWindowCFv (CPPOOU3.3065)
+ 0000:00000000  Imp  minimize__12IFrameWindowFv (CPPOOU3.3109)
+ 0000:00000000  Imp  minimum__5IPairCFRC5IPair (CPPOOB3.410)
+ 0005:00000000       MonthNameId__7CalCtrl
+ 0000:00000000  Imp  monthName__5IDateCFv (CPPOOB3.192)
+ 0001:0002AF4C       MonthName__7CalCtrlCFv
+ 0000:00000000  Imp  monthOfYear__5IDateCFv (CPPOOB3.197)
+ 0000:00000000  Imp  mousePointer__12IFrameWindowCFv (CPPOOU3.3150)
+ 0000:00000000  Imp  moveSizeToClient__12IFrameWindowFRC10IRectangle (CPPOOU3.3144)
+ 0000:00000000  Imp  moveSizeTo__7IWindowFRC10IRectangle (CPPOOU3.4185)
+ 0000:00000000  Imp  moveTo__7IWindowFRC6IPoint (CPPOOU3.4189)
+ 0000:00000000  Imp  nativeRect__7IWindowCFv (CPPOOU3.4204)
+ 0002:000000B0       newObjectCreatedId__28CalAppCalendarFactoryFactory
+ 0000:00000000  Imp  notifyObservers__17IStandardNotifierFRC18INotificationEvent (CPPOOB3.473)
+ 0000:00000000  Imp  notifyObservers__17IStandardNotifierFRCPCc (CPPOOB3.460)
+ 0000:00000000  Imp  notifyObservers__7IWindowFRC18INotificationEvent (CPPOOU3.4247)
+ 0000:00000000  Imp  notifyObservers__7IWindowFRCPCc (CPPOOU3.4256)
+ 0000:00000000  Imp  notifyOwner__12IFrameWindowFUlQ2_13ICommandEvent6Sourcei (CPPOOU3.3137)
+ 0000:00000000  Imp  observerList__17IStandardNotifierCFv (CPPOOB3.476)
+ 0000:00000000  Imp  observerList__7IWindowCFv (CPPOOU3.4259)
+ 0000:00000000  Imp  parentSize__7IWindowCFv (CPPOOU3.4176)
+ 0005:0000011C       partWindowId__6CalApp
+ 0005:00000120       partWindowId__8Calendar
+ 0000:00000000  Imp  positionBehindSiblings__7IWindowFv (CPPOOU3.4186)
+ 0000:00000000  Imp  positionBehindSibling__7IWindowFRC13IWindowHandle (CPPOOU3.4188)
+ 0000:00000000  Imp  positionOnSiblings__7IWindowFv (CPPOOU3.4205)
+ 0000:00000000  Imp  position__7IWindowCFv (CPPOOU3.4228)
+ 0000:00000000  Imp  postEvent__7IWindowCFQ2_7IWindow9EventTypeRC10IEventDataT2 (CPPOOU3.4134)
+ 0000:00000000  Imp  postEvent__7IWindowCFRC6IEvent (CPPOOU3.4099)
+ 0000:00000000  Imp  postEvent__7IWindowCFUlRC10IEventDataT2 (CPPOOU3.4077)
+ 0000:00000000  Imp  presSpace__7IWindowCFv (CPPOOU3.4139)
+ 0002:000000B4       readyId__6CalApp
+ 0002:000006A8       readyId__7CalCtrl
+ 0002:000001DC       readyId__8Calendar
+ 0002:0000070C       readyId__8CalReset
+ 0002:000006DC       readyId__9CalSelect
+ 0000:00000000  Imp  rect__7IWindowCFv    (CPPOOU3.4182)
+ 0000:00000000  Imp  refresh__7IWindowFi  (CPPOOU3.2774)
+ 0000:00000000  Imp  refresh__7IWindowFQ2_7IWindow11RefreshType (CPPOOU3.4162)
+ 0000:00000000  Imp  refresh__7IWindowFRC10IRectanglei (CPPOOU3.4103)
+ 0000:00000000  Imp  releasePointer__7IWindowFv (CPPOOU3.4110)
+ 0000:00000000  Imp  releasePresSpace__7IWindowCFRC16IPresSpaceHandle (CPPOOU3.4119)
+ 0000:00000000  Imp  removeAllObservers__17IStandardNotifierFv (CPPOOB3.470)
+ 0000:00000000  Imp  removeAllObservers__7IWindowFv (CPPOOU3.4261)
+ 0000:00000000  Imp  removeExtension__12IFrameWindowFP7IWindowi (CPPOOU3.3147)
+ 0000:00000000  Imp  removeFromWindowList__12IFrameWindowFv (CPPOOU3.3127)
+ 0000:00000000  Imp  removeObserver__17IStandardNotifierFR9IObserver (CPPOOB3.472)
+ 0000:00000000  Imp  removeObserver__7IWindowFR9IObserver (CPPOOU3.4241)
+ 0000:00000000  Imp  resetActiveColor__7IWindowFv (CPPOOU3.4227)
+ 0000:00000000  Imp  resetBackgroundColor__12IFrameWindowFv (CPPOOU3.3131)
+ 0000:00000000  Imp  resetBorderColor__7IWindowFv (CPPOOU3.4198)
+ 0005:000000EC       resetBttnsId__8CalReset
+ 0000:00000000  Imp  resetDisabledBackgroundColor__12IFrameWindowFv (CPPOOU3.3100)
+ 0000:00000000  Imp  resetDisabledForegroundColor__7IWindowFv (CPPOOU3.4212)
+ 0000:00000000  Imp  resetFont__7IWindowFv (CPPOOU3.4107)
+ 0000:00000000  Imp  resetForegroundColor__7IWindowFv (CPPOOU3.4229)
+ 0000:00000000  Imp  resetHiliteBackgroundColor__7IWindowFv (CPPOOU3.4200)
+ 0000:00000000  Imp  resetHiliteForegroundColor__7IWindowFv (CPPOOU3.4197)
+ 0000:00000000  Imp  resetInactiveColor__7IWindowFv (CPPOOU3.4201)
+ 0000:00000000  Imp  resetShadowColor__7IWindowFv (CPPOOU3.4183)
+ 0000:00000000  Imp  restoreRect__12IFrameWindowCFv (CPPOOU3.3168)
+ 0000:00000000  Imp  restore__12IFrameWindowFv (CPPOOU3.3061)
+ 0000:00000000  Imp  result__12IFrameWindowCFv (CPPOOU3.3054)
+ 0005:000000E0       SelectedDayId__7CalCtrl
+ 0001:000301F4       SelectedDay__7CalCtrlCFv
+ 0005:000000E4       SelectedyyyymmddStringId__7CalCtrl
+ 0001:0003065C       SelectedyyyymmddString__7CalCtrlCFv
+ 0000:00000000  Imp  sendEvent__7IWindowCFQ2_7IWindow9EventTypeRC10IEventDataT2 (CPPOOU3.4154)
+ 0000:00000000  Imp  sendEvent__7IWindowCFRC6IEvent (CPPOOU3.4067)
+ 0000:00000000  Imp  sendEvent__7IWindowCFUlRC10IEventDataT2 (CPPOOU3.4065)
+ 0000:00000000  Imp  setActiveColor__7IWindowFRC6IColor (CPPOOU3.4221)
+ 0000:00000000  Imp  setAutoDeleteObject__7IWindowFi (CPPOOU3.4071)
+ 0000:00000000  Imp  setAutoDeleteTarget__20IVBVariableClassBaseFi (CPPOOV3.104)
+ 0000:00000000  Imp  setBackgroundColor__7IWindowFRC6IColor (CPPOOU3.4216)
+ 0000:00000000  Imp  setBorderColor__7IWindowFRC6IColor (CPPOOU3.4223)
+ 0001:0002E37C       setBttnTxt10__7CalCtrlFRC7IString
+ 0001:0002E490       setBttnTxt11__7CalCtrlFRC7IString
+ 0001:0002E5A4       setBttnTxt12__7CalCtrlFRC7IString
+ 0001:0002E6B8       setBttnTxt13__7CalCtrlFRC7IString
+ 0001:0002E7CC       setBttnTxt14__7CalCtrlFRC7IString
+ 0001:0002E8E0       setBttnTxt15__7CalCtrlFRC7IString
+ 0001:0002E9F4       setBttnTxt16__7CalCtrlFRC7IString
+ 0001:0002EB08       setBttnTxt17__7CalCtrlFRC7IString
+ 0001:0002EC1C       setBttnTxt18__7CalCtrlFRC7IString
+ 0001:0002ED30       setBttnTxt19__7CalCtrlFRC7IString
+ 0001:0002D9C8       setBttnTxt1__7CalCtrlFRC7IString
+ 0001:0002EE44       setBttnTxt20__7CalCtrlFRC7IString
+ 0001:0002EF58       setBttnTxt21__7CalCtrlFRC7IString
+ 0001:0002F06C       setBttnTxt22__7CalCtrlFRC7IString
+ 0001:0002F180       setBttnTxt23__7CalCtrlFRC7IString
+ 0001:0002F294       setBttnTxt24__7CalCtrlFRC7IString
+ 0001:0002F3AC       setBttnTxt25__7CalCtrlFRC7IString
+ 0001:0002F4C8       setBttnTxt26__7CalCtrlFRC7IString
+ 0001:0002F5E4       setBttnTxt27__7CalCtrlFRC7IString
+ 0001:0002F700       setBttnTxt28__7CalCtrlFRC7IString
+ 0001:0002F81C       setBttnTxt29__7CalCtrlFRC7IString
+ 0001:0002DADC       setBttnTxt2__7CalCtrlFRC7IString
+ 0001:0002F938       setBttnTxt30__7CalCtrlFRC7IString
+ 0001:0002FA54       setBttnTxt31__7CalCtrlFRC7IString
+ 0001:0002FB70       setBttnTxt32__7CalCtrlFRC7IString
+ 0001:0002FC8C       setBttnTxt33__7CalCtrlFRC7IString
+ 0001:0002FDA8       setBttnTxt34__7CalCtrlFRC7IString
+ 0001:0002FEC4       setBttnTxt35__7CalCtrlFRC7IString
+ 0001:0002FFE0       setBttnTxt36__7CalCtrlFRC7IString
+ 0001:000300FC       setBttnTxt37__7CalCtrlFRC7IString
+ 0001:0002DBF0       setBttnTxt3__7CalCtrlFRC7IString
+ 0001:0002DD04       setBttnTxt4__7CalCtrlFRC7IString
+ 0001:0002DE18       setBttnTxt5__7CalCtrlFRC7IString
+ 0001:0002DF2C       setBttnTxt6__7CalCtrlFRC7IString
+ 0001:0002E040       setBttnTxt7__7CalCtrlFRC7IString
+ 0001:0002E154       setBttnTxt8__7CalCtrlFRC7IString
+ 0001:0002E268       setBttnTxt9__7CalCtrlFRC7IString
+ 0001:00030BC0       setCalSelectedDay__9CalSelectFRC7IString
+ 0000:00000000  Imp  setClient__12IFrameWindowFP7IWindow (CPPOOU3.3102)
+ 0000:00000000  Imp  setDestroyOnClose__12IFrameWindowFi (CPPOOU3.3053)
+ 0000:00000000  Imp  setDisabledBackgroundColor__7IWindowFRC6IColor (CPPOOU3.4195)
+ 0000:00000000  Imp  setDisabledForegroundColor__7IWindowFRC6IColor (CPPOOU3.4180)
+ 0000:00000000  Imp  setExtendedStyle__7IWindowFUl (CPPOOU3.4157)
+ 0000:00000000  Imp  setExtensionSize__12IFrameWindowFP7IWindowd (CPPOOU3.3081)
+ 0000:00000000  Imp  setExtensionSize__12IFrameWindowFP7IWindowi (CPPOOU3.3084)
+ 0000:00000000  Imp  setExtensionSize__12IFrameWindowFP7IWindowUl (CPPOOU3.3049)
+ 0000:00000000  Imp  setFocus__7IWindowFv (CPPOOU3.4170)
+ 0000:00000000  Imp  setFont__7IWindowFRC5IFont (CPPOOU3.4127)
+ 0000:00000000  Imp  setForegroundColor__7IWindowFRC6IColor (CPPOOU3.4199)
+ 0000:00000000  Imp  setHiliteBackgroundColor__7IWindowFRC6IColor (CPPOOU3.4196)
+ 0000:00000000  Imp  setHiliteForegroundColor__7IWindowFRC6IColor (CPPOOU3.4179)
+ 0000:00000000  Imp  setIcon__12IFrameWindowFRC11IResourceId (CPPOOU3.3154)
+ 0000:00000000  Imp  setIcon__12IFrameWindowFRC14IPointerHandle (CPPOOU3.3156)
+ 0000:00000000  Imp  setIcon__12IFrameWindowFUl (CPPOOU3.3080)
+ 0000:00000000  Imp  setId__7IWindowFUl   (CPPOOU3.4159)
+ 0000:00000000  Imp  setInactiveColor__7IWindowFRC6IColor (CPPOOU3.4191)
+ 0000:00000000  Imp  setLayoutDistorted__12IFrameWindowFUlT1 (CPPOOU3.3134)
+ 0000:00000000  Imp  setMinimumSize__7IWindowFRC5ISize (CPPOOU3.4075)
+ 0001:0002AF6C       setMonthName__7CalCtrlFRC7IString
+ 0000:00000000  Imp  setMousePointer__12IFrameWindowFRC14IPointerHandle (CPPOOU3.3105)
+ 0000:00000000  Imp  setOwner__7IWindowFPC7IWindow (CPPOOU3.4181)
+ 0000:00000000  Imp  setParent__7IWindowFPC7IWindow (CPPOOU3.4141)
+ 0000:00000000  Imp  setRestoreRect__12IFrameWindowFRC10IRectangle (CPPOOU3.3076)
+ 0000:00000000  Imp  setResult__12IFrameWindowFUl (CPPOOU3.3116)
+ 0001:00030214       setSelectedDay__7CalCtrlFRC7IString
+ 0001:0003067C       setSelectedyyyymmddString__7CalCtrlFRC7IString
+ 0000:00000000  Imp  setShadowColor__7IWindowFRC6IColor (CPPOOU3.4217)
+ 0000:00000000  Imp  setStyle__7IWindowFUl (CPPOOU3.4108)
+ 0001:00031BA8       setTarget__22IVBVariablePartPointerXTP8Calendar_FP8Calendar
+ 0001:0002B138       setYearString__7CalCtrlFRC7IString
+ 0000:00000000  Imp  shadowColor__7IWindowCFv (CPPOOU3.4219)
+ 0000:00000000  Imp  shareParentDBCSStatus__12IFrameWindowFv (CPPOOU3.3157)
+ 0000:00000000  Imp  showModally__12IFrameWindowFv (CPPOOU3.3125)
+ 0000:00000000  Imp  showSourceEmphasis__7IWindowFi (CPPOOU3.4087)
+ 0000:00000000  Imp  show__12IFrameWindowFi (CPPOOU3.3099)
+ 0000:00000000  Imp  sizeTo__7IWindowFRC5ISize (CPPOOU3.4225)
+ 0000:00000000  Imp  size__7IWindowCFv    (CPPOOU3.4224)
+ 0000:00000000  Imp  stopHandlingNotificationsFor__9IObserverFR9INotifier (CPPOOB3.381)
+ 0000:00000000  Imp  strtol               (CPPOM30.strtol)
+ 0000:00000000  Imp  style__7IWindowCFv   (CPPOOU3.4148)
+ 0000:00000000  Imp  targetId__20IVBVariableClassBase (CPPOOV3.100)
+ 0001:00031804       targetPtr__22IVBVariablePartPointerXTP8Calendar_CFv
+ 0001:00031DD4       target__22IVBVariablePartPointerXTP8Calendar_CFv
+ 0000:00000000  Imp  textId__12ITextControl (CPPOOU3.5849)
+ 0000:00000000  Imp  time                 (CPPOM30.time)
+ 0000:00000000  Imp  update__12IFrameWindowFv (CPPOOU3.3063)
+ 0000:00000000  Imp  useExtensionMinimumSize__12IFrameWindowFP7IWindow (CPPOOU3.3138)
+ 0000:00000000  Imp  viewTextId__6ITitle  (CPPOOU3.5900)
+ 0000:00000000  Imp  visibleRectangle__7IWindowCFv (CPPOOU3.4072)
+ 0005:00000004       YearStringId__7CalCtrl
+ 0001:0002B118       YearString__7CalCtrlCFv
+ 0000:00000000  Imp  year__5IDateCFv      (CPPOOB3.193)
+ 0005:00000124       _argc
+ 0005:00000128       _argv
+ 0000:00000000  Imp  _callback_opt_sys    (CPPOM30._callback_opt_sys)
+ 0001:000315EC       _cppinit
+ 0000:00000000  Imp  _CRT_init            (CPPOM30._CRT_init)
+ 0000:00000000  Imp  _CRT_term            (CPPOM30._CRT_term)
+ 0005:0000011C       _edata
+ 0005:00000130       _end
+ 0000:00000000  Imp  _environ             (CPPOM30._environ)
+ 0001:0003105C       _Exception_CPP
+ 0000:00000000  Imp  _exception_procinit  (CPPOM30._exception_procinit)
+ 0005:000000F0       _exeentry
+ 0001:00031530       _exestart
+ 0000:00000000  Imp  _EXE_Exception       (CPPOM30._EXE_Exception)
+ 0000:00000000  Imp  _fltused             (CPPOM30._fltused)
+ 0000:00000000  Imp  _fpninit             (CPPOM30._fpninit)
+ 0000:00000000  Imp  _fpreset             (CPPOM30._fpreset)
+ 0000:00000000  Imp  _matherr             (CPPOM30._matherr)
+ 0005:0000012C       _matherr_ptr
+ 0000:00000000  Imp  _PrintErrMsg         (CPPOM30._PrintErrMsg)
+ 0000:00000000  Imp  _ProfileUnwind32     (CPPOM30._ProfileUnwind32)
+ 0001:000315F4       _setuparg
+ 0000:00000000  Imp  _terminate           (CPPOM30._terminate)
+ 0000:00000000  Imp  __apl__7IStringFRC7IString (CPPOOB3.553)
+ 0000:00000000  Imp  __as__7IStringFRC7IString (CPPOOB3.535)
+ 0000:00000000  Imp  __CatchMatch         (CPPOM30.__CatchMatch)
+ 0000:00000000  Imp  __CleanupCatch       (CPPOM30.__CleanupCatch)
+ 0000:00000000  Imp  __ct__11IMessageBoxFP7IWindow (CPPOOU3.3617)
+ 0000:00000000  Imp  __ct__11IPushButtonFUlP7IWindowT2RC10IRectangleRCQ2_11IPushButton5Style (CPPOOU3.5424)
+ 0000:00000000  Imp  __ct__11IStaticTextFUlP7IWindowT2RC10IRectangleRCQ2_11IStaticText5Style (CPPOOU3.5831)
+ 0000:00000000  Imp  __ct__12IFrameWindowFRC11IResourceIdP7IWindowT2RC10IRectangleRCQ2_12IFrameWindow5StylePCc (CPPOOU3.3128)
+ 0000:00000000  Imp  __ct__15IAnimatedButtonFUlP7IWindowT2RC10IRectangleRCQ2_15IAnimatedButton5Style (CPPOOU3.7877)
+ 0000:00000000  Imp  __ct__17IStandardNotifierFv (CPPOOB3.464)
+ 0000:00000000  Imp  __ct__18INotificationEventFRCPCcR9INotifieriRC10IEventDataT4 (CPPOOB3.378)
+ 0000:00000000  Imp  __ct__19IVBVariablePartBaseFv (CPPOOV3.200)
+ 0001:00031B20       __ct__22IVBVariablePartPointerXTP8Calendar_Fv
+ 0001:000002C4       __ct__28CalAppCalendarFactoryFactoryFUl
+ 0000:00000000  Imp  __ct__5IDateFiT1     (CPPOOB3.195)
+ 0001:0000069C       __ct__6CalAppFUlP7IWindowT2RC10IRectangleRCQ2_12IFrameWindow5StylePCc
+ 0000:00000000  Imp  __ct__6IColorFQ2_6IColor5Color (CPPOOU3.2787)
+ 0000:00000000  Imp  __ct__6ITitleFP7IWindowPCcT2Ul (CPPOOU3.5874)
+ 0001:0002A364       __ct__7CalCtrlFv
+ 0000:00000000  Imp  __ct__7ICanvasFUlP7IWindowT2RC10IRectangleRCQ2_7ICanvas5Style (CPPOOU3.4642)
+ 0000:00000000  Imp  __ct__7IStringFi     (CPPOOB3.539)
+ 0000:00000000  Imp  __ct__7IStringFPCc   (CPPOOB3.531)
+ 0000:00000000  Imp  __ct__7IStringFRC7IString (CPPOOB3.540)
+ 0000:00000000  Imp  __ct__7IStringFv     (CPPOOB3.505)
+ 0001:0000283C       __ct__8CalendarFUlP7IWindowT2RC10IRectangleRCQ2_12IFrameWindow5StylePCc
+ 0001:00030D80       __ct__8CalResetFv
+ 0000:00000000  Imp  __ct__8IListBoxFUlP7IWindowT2RC10IRectangleRCQ2_8IListBox5Style (CPPOOU3.5099)
+ 0001:0003095C       __ct__9CalSelectFv
+ 0000:00000000  Imp  __ct__9IObserverFv   (CPPOOB3.382)
+ 0000:00000000  Imp  __CurrentException   (CPPOM30.__CurrentException)
+ 0000:00000000  Imp  __dl__FPv            (CPPOM30.__dl__FPv)
+ 0000:00000000  Imp  __dt__11IMessageBoxFv (CPPOOU3.3625)
+ 0000:00000000  Imp  __dt__12IFrameWindowFv (CPPOOU3.3070)
+ 0000:00000000  Imp  __dt__17IStandardNotifierFv (CPPOOB3.463)
+ 0000:00000000  Imp  __dt__18INotificationEventFv (CPPOOB3.377)
+ 0000:00000000  Imp  __dt__19IVBVariablePartBaseFv (CPPOOV3.201)
+ 0001:00031A18       __dt__22IVBVariablePartPointerXTP8Calendar_Fv
+ 0001:00000368       __dt__28CalAppCalendarFactoryFactoryFv
+ 0001:00000EC4       __dt__6CalAppFv
+ 0000:00000000  Imp  __dt__6IColorFv      (CPPOOU3.2789)
+ 0001:0002A7DC       __dt__7CalCtrlFv
+ 0000:00000000  Imp  __dt__7IStringFv     (CPPOOB3.538)
+ 0001:00009154       __dt__8CalendarFv
+ 0001:00030DF4       __dt__8CalResetFv
+ 0001:000309E8       __dt__9CalSelectFv
+ 0000:00000000  Imp  __dt__9IObserverFv   (CPPOOB3.383)
+ 0000:00000000  Imp  __get_frame_ptr      (CPPOM30.__get_frame_ptr)
+ 0000:00000000  Imp  __Invoke__Delete     (CPPOM30.__Invoke__Delete)
+ 0000:00000000  Imp  __Invoke__Destructor (CPPOM30.__Invoke__Destructor)
+ 0000:00000000  Imp  __nw__FUi            (CPPOM30.__nw__FUi)
+ 0000:00000000  Imp  __RestoreRegsAndJump (CPPOM30.__RestoreRegsAndJump)
+ 0000:00000000  Imp  __ReThrow            (CPPOM30.__ReThrow)
+ 0001:000315BC       __RunExitList
+ 0001:000317EC       __sctordtorInit
+ 0001:000317F4       __sctordtorTerm
+ 0000:00000000  Imp  __set_frame_ptr      (CPPOM30.__set_frame_ptr)
+ 0004:00000930       __vft22IVBVariablePartPointerXTP8Calendar_9INotifier6IVBase
+ 0004:000009E0       __vft22IVBVariablePartPointerXTP8Calendar_9IObserver6IVBase
+ 0004:00000890       __vft28CalAppCalendarFactoryFactory6IVBase
+ 0004:00000000       __vft6CalApp6IVBase
+ 0004:00005B88       __vft7CalCtrl6IVBase
+ 0004:00000A50       __vft8Calendar9INotifier6IVBase
+ 0004:00000A18       __vft8Calendar9IObserver6IVBase
+ 0004:00005FB0       __vft8CalReset6IVBase
+ 0004:00005EF8       __vft9CalSelect6IVBase
+ 0001:000317FC       __wctordtorInit
+ 0001:00031800       __wctordtorTerm
+ 0000:00000000  Imp  __wDestructSOMBase   (CPPOM30.__wDestructSOMBase)
+
+  Address         Publics by Value
+
+ 0000:00000000  Imp  moveSizeToClient__12IFrameWindowFRC10IRectangle (CPPOOU3.3144)
+ 0000:00000000  Imp  isEnabledForNotification__17IStandardNotifierCFv (CPPOOB3.462)
+ 0000:00000000  Imp  inactiveColor__7IWindowCFv (CPPOOU3.4211)
+ 0000:00000000  Imp  useExtensionMinimumSize__12IFrameWindowFP7IWindow (CPPOOU3.3138)
+ 0000:00000000  Imp  extendedStyle__7IWindowCFv (CPPOOU3.4125)
+ 0000:00000000  Imp  create__12IFrameWindowFUlPCcT1T2RC13IWindowHandleT5RC10IRectanglePCvT8Q2_7IWindow12SiblingOrder (CPPOOU3.3159)
+ 0000:00000000  Imp  __set_frame_ptr      (CPPOM30.__set_frame_ptr)
+ 0000:00000000  Imp  __Invoke__Delete     (CPPOM30.__Invoke__Delete)
+ 0000:00000000  Imp  resetBackgroundColor__12IFrameWindowFv (CPPOOU3.3131)
+ 0000:00000000  Imp  capturePointer__7IWindowFi (CPPOOU3.4146)
+ 0000:00000000  Imp  removeObserver__17IStandardNotifierFR9IObserver (CPPOOB3.472)
+ 0000:00000000  Imp  releasePointer__7IWindowFv (CPPOOU3.4110)
+ 0000:00000000  Imp  font__7IWindowCFv    (CPPOOU3.4117)
+ 0000:00000000  Imp  addObserver__7IWindowFR9IObserverRC10IEventData (CPPOOU3.4233)
+ 0000:00000000  Imp  __get_frame_ptr      (CPPOM30.__get_frame_ptr)
+ 0000:00000000  Imp  isFrameWindow__7IWindowCFv (CPPOOU3.4104)
+ 0000:00000000  Imp  strtol               (CPPOM30.strtol)
+ 0000:00000000  Imp  handleException__7IWindowFR10IExceptionR6IEvent (CPPOOU3.4088)
+ 0000:00000000  Imp  moveTo__7IWindowFRC6IPoint (CPPOOU3.4189)
+ 0000:00000000  Imp  size__7IWindowCFv    (CPPOOU3.4224)
+ 0000:00000000  Imp  endFlashing__12IFrameWindowFv (CPPOOU3.3068)
+ 0000:00000000  Imp  __ct__18INotificationEventFRCPCcR9INotifieriRC10IEventDataT4 (CPPOOB3.378)
+ 0000:00000000  Imp  convertToGUIStyle__12IFrameWindowCFRC8IBitFlagi (CPPOOU3.3122)
+ 0000:00000000  Imp  removeFromWindowList__12IFrameWindowFv (CPPOOU3.3127)
+ 0000:00000000  Imp  __ct__9IObserverFv   (CPPOOB3.382)
+ 0000:00000000  Imp  __ct__7IStringFPCc   (CPPOOB3.531)
+ 0000:00000000  Imp  sendEvent__7IWindowCFUlRC10IEventDataT2 (CPPOOU3.4065)
+ 0000:00000000  Imp  deleteId__17IStandardNotifier (CPPOOB3.461)
+ 0000:00000000  Imp  __dt__18INotificationEventFv (CPPOOB3.377)
+ 0000:00000000  Imp  resetActiveColor__7IWindowFv (CPPOOU3.4227)
+ 0000:00000000  Imp  __ct__11IMessageBoxFP7IWindow (CPPOOU3.3617)
+ 0000:00000000  Imp  setIcon__12IFrameWindowFRC11IResourceId (CPPOOU3.3154)
+ 0000:00000000  Imp  _callback_opt_sys    (CPPOM30._callback_opt_sys)
+ 0000:00000000  Imp  showModally__12IFrameWindowFv (CPPOOU3.3125)
+ 0000:00000000  Imp  __ct__7ICanvasFUlP7IWindowT2RC10IRectangleRCQ2_7ICanvas5Style (CPPOOU3.4642)
+ 0000:00000000  Imp  setMousePointer__12IFrameWindowFRC14IPointerHandle (CPPOOU3.3105)
+ 0000:00000000  Imp  notifyObservers__7IWindowFRC18INotificationEvent (CPPOOU3.4247)
+ 0000:00000000  Imp  __ct__17IStandardNotifierFv (CPPOOB3.464)
+ 0000:00000000  Imp  deleteId__7IWindow   (CPPOOU3.4240)
+ 0000:00000000  Imp  __dt__17IStandardNotifierFv (CPPOOB3.463)
+ 0000:00000000  Imp  disableUpdate__7IWindowFv (CPPOOU3.4074)
+ 0000:00000000  Imp  sizeTo__7IWindowFRC5ISize (CPPOOU3.4225)
+ 0000:00000000  Imp  enableNotification__12IFrameWindowFi (CPPOOU3.3173)
+ 0000:00000000  Imp  _ProfileUnwind32     (CPPOM30._ProfileUnwind32)
+ 0000:00000000  Imp  setFont__7IWindowFRC5IFont (CPPOOU3.4127)
+ 0000:00000000  Imp  minimize__12IFrameWindowFv (CPPOOU3.3109)
+ 0000:00000000  Imp  hide__7IWindowFv     (CPPOOU3.4079)
+ 0000:00000000  Imp  applyBidiSettings__7IWindowFRCQ2_7IWindow12BidiSettingsiT2 (CPPOOU3.4276)
+ 0000:00000000  Imp  maximize__12IFrameWindowFv (CPPOOU3.3139)
+ 0000:00000000  Imp  disabledForegroundColor__7IWindowCFv (CPPOOU3.4220)
+ 0000:00000000  Imp  defaultStyle__8IListBoxFv (CPPOOU3.5079)
+ 0000:00000000  Imp  dismiss__12IFrameWindowFUl (CPPOOU3.3136)
+ 0000:00000000  Imp  nativeRect__7IWindowCFv (CPPOOU3.4204)
+ 0000:00000000  Imp  _EXE_Exception       (CPPOM30._EXE_Exception)
+ 0000:00000000  Imp  initialize__5IDateFQ2_5IDate5MonthiT2 (CPPOOB3.206)
+ 0000:00000000  Imp  daysInMonth__5IDateFQ2_5IDate5Monthi (CPPOOB3.190)
+ 0000:00000000  Imp  parentSize__7IWindowCFv (CPPOOU3.4176)
+ 0000:00000000  Imp  setInactiveColor__7IWindowFRC6IColor (CPPOOU3.4191)
+ 0000:00000000  Imp  observerList__17IStandardNotifierCFv (CPPOOB3.476)
+ 0000:00000000  Imp  year__5IDateCFv      (CPPOOB3.193)
+ 0000:00000000  Imp  __ct__15IAnimatedButtonFUlP7IWindowT2RC10IRectangleRCQ2_15IAnimatedButton5Style (CPPOOU3.7877)
+ 0000:00000000  Imp  setDestroyOnClose__12IFrameWindowFi (CPPOOU3.3053)
+ 0000:00000000  Imp  setClient__12IFrameWindowFP7IWindow (CPPOOU3.3102)
+ 0000:00000000  Imp  sendEvent__7IWindowCFQ2_7IWindow9EventTypeRC10IEventDataT2 (CPPOOU3.4154)
+ 0000:00000000  Imp  postEvent__7IWindowCFQ2_7IWindow9EventTypeRC10IEventDataT2 (CPPOOU3.4134)
+ 0000:00000000  Imp  __ct__7IStringFv     (CPPOOB3.505)
+ 0000:00000000  Imp  __dt__7IStringFv     (CPPOOB3.538)
+ 0000:00000000  Imp  malloc               (CPPOM30.malloc)
+ 0000:00000000  Imp  rect__7IWindowCFv    (CPPOOU3.4182)
+ 0000:00000000  Imp  moveSizeTo__7IWindowFRC10IRectangle (CPPOOU3.4185)
+ 0000:00000000  Imp  __ct__7IStringFi     (CPPOOB3.539)
+ 0000:00000000  Imp  setDisabledBackgroundColor__7IWindowFRC6IColor (CPPOOU3.4195)
+ 0000:00000000  Imp  __apl__7IStringFRC7IString (CPPOOB3.553)
+ 0000:00000000  Imp  releasePresSpace__7IWindowCFRC16IPresSpaceHandle (CPPOOU3.4119)
+ 0000:00000000  Imp  __dt__6IColorFv      (CPPOOU3.2789)
+ 0000:00000000  Imp  desktopWindow__7IWindowFv (CPPOOU3.4130)
+ 0000:00000000  Imp  __ct__5IDateFiT1     (CPPOOB3.195)
+ 0000:00000000  Imp  removeObserver__7IWindowFR9IObserver (CPPOOU3.4241)
+ 0000:00000000  Imp  setDisabledForegroundColor__7IWindowFRC6IColor (CPPOOU3.4180)
+ 0000:00000000  Imp  isEnabledForNotification__7IWindowCFv (CPPOOU3.4251)
+ 0000:00000000  Imp  __dt__19IVBVariablePartBaseFv (CPPOOV3.201)
+ 0000:00000000  Imp  addExtension__12IFrameWindowFP7IWindowQ2_12IFrameWindow8LocationQ2_12IFrameWindow13SeparatorType (CPPOOU3.3048)
+ 0000:00000000  Imp  __ct__6ITitleFP7IWindowPCcT2Ul (CPPOOU3.5874)
+ 0000:00000000  Imp  addExtension__12IFrameWindowFP7IWindowQ2_12IFrameWindow8LocationiQ2_12IFrameWindow13SeparatorType (CPPOOU3.3143)
+ 0000:00000000  Imp  __ReThrow            (CPPOM30.__ReThrow)
+ 0000:00000000  Imp  style__7IWindowCFv   (CPPOOU3.4148)
+ 0000:00000000  Imp  __nw__FUi            (CPPOM30.__nw__FUi)
+ 0000:00000000  Imp  setParent__7IWindowFPC7IWindow (CPPOOU3.4141)
+ 0000:00000000  Imp  addExtension__12IFrameWindowFP7IWindowQ2_12IFrameWindow8LocationdQ2_12IFrameWindow13SeparatorType (CPPOOU3.3083)
+ 0000:00000000  Imp  shareParentDBCSStatus__12IFrameWindowFv (CPPOOU3.3157)
+ 0000:00000000  Imp  isAnExtension__12IFrameWindowCFPC7IWindow (CPPOOU3.3050)
+ 0000:00000000  Imp  disable__7IWindowFv  (CPPOOU3.4097)
+ 0000:00000000  Imp  handleNotificationsFor__9IObserverFR9INotifierRC10IEventData (CPPOOB3.380)
+ 0000:00000000  Imp  matchForMnemonic__7IWindowCFUs (CPPOOU3.4158)
+ 0000:00000000  Imp  _CRT_term            (CPPOM30._CRT_term)
+ 0000:00000000  Imp  __dl__FPv            (CPPOM30.__dl__FPv)
+ 0000:00000000  Imp  defaultStyle__12IFrameWindowFv (CPPOOU3.3077)
+ 0000:00000000  Imp  _CRT_init            (CPPOM30._CRT_init)
+ 0000:00000000  Imp  refresh__7IWindowFi  (CPPOOU3.2774)
+ 0000:00000000  Imp  asString__6IVBaseCFv (CPPOOB3.632)
+ 0000:00000000  Imp  resetDisabledForegroundColor__7IWindowFv (CPPOOU3.4212)
+ 0000:00000000  Imp  isAnExtension__12IFrameWindowFP7IWindow (CPPOOU3.2747)
+ 0000:00000000  Imp  showSourceEmphasis__7IWindowFi (CPPOOU3.4087)
+ 0000:00000000  Imp  monthName__5IDateCFv (CPPOOB3.192)
+ 0000:00000000  Imp  removeAllObservers__7IWindowFv (CPPOOU3.4261)
+ 0000:00000000  Imp  enableNotification__17IStandardNotifierFi (CPPOOB3.467)
+ 0000:00000000  Imp  resetInactiveColor__7IWindowFv (CPPOOU3.4201)
+ 0000:00000000  Imp  asString__7IWindowCFv (CPPOOU3.4231)
+ 0000:00000000  Imp  handle__7IWindowCFv  (CPPOOU3.4094)
+ 0000:00000000  Imp  sendEvent__7IWindowCFRC6IEvent (CPPOOU3.4067)
+ 0000:00000000  Imp  position__7IWindowCFv (CPPOOU3.4228)
+ 0000:00000000  Imp  viewTextId__6ITitle  (CPPOOU3.5900)
+ 0000:00000000  Imp  disabledBackgroundColor__12IFrameWindowCFv (CPPOOU3.3165)
+ 0000:00000000  Imp  isGroup__7IWindowCFv (CPPOOU3.4153)
+ 0000:00000000  Imp  disableNotification__17IStandardNotifierFv (CPPOOB3.468)
+ 0000:00000000  Imp  setFocus__7IWindowFv (CPPOOU3.4170)
+ 0000:00000000  Imp  _terminate           (CPPOM30._terminate)
+ 0000:00000000  Imp  notifyObservers__17IStandardNotifierFRCPCc (CPPOOB3.460)
+ 0000:00000000  Imp  hideSourceEmphasis__7IWindowFv (CPPOOU3.4078)
+ 0000:00000000  Imp  __dt__11IMessageBoxFv (CPPOOU3.3625)
+ 0000:00000000  Imp  removeAllObservers__17IStandardNotifierFv (CPPOOB3.470)
+ 0000:00000000  Imp  refresh__7IWindowFQ2_7IWindow11RefreshType (CPPOOU3.4162)
+ 0000:00000000  Imp  enable__7IWindowFi   (CPPOOU3.4126)
+ 0000:00000000  Imp  visibleRectangle__7IWindowCFv (CPPOOU3.4072)
+ 0000:00000000  Imp  setBackgroundColor__7IWindowFRC6IColor (CPPOOU3.4216)
+ 0000:00000000  Imp  resetHiliteBackgroundColor__7IWindowFv (CPPOOU3.4200)
+ 0000:00000000  Imp  notifyObservers__17IStandardNotifierFRC18INotificationEvent (CPPOOB3.473)
+ 0000:00000000  Imp  setExtendedStyle__7IWindowFUl (CPPOOU3.4157)
+ 0000:00000000  Imp  asString__5IDateCFQ2_5IDate10YearFormat (CPPOOB3.201)
+ 0000:00000000  Imp  __ct__11IPushButtonFUlP7IWindowT2RC10IRectangleRCQ2_11IPushButton5Style (CPPOOU3.5424)
+ 0000:00000000  Imp  setForegroundColor__7IWindowFRC6IColor (CPPOOU3.4199)
+ 0000:00000000  Imp  setStyle__7IWindowFUl (CPPOOU3.4108)
+ 0000:00000000  Imp  calcMinimumSize__7IWindowCFv (CPPOOU3.4085)
+ 0000:00000000  Imp  postEvent__7IWindowCFUlRC10IEventDataT2 (CPPOOU3.4077)
+ 0000:00000000  Imp  __ct__19IVBVariablePartBaseFv (CPPOOV3.200)
+ 0000:00000000  Imp  setOwner__7IWindowFPC7IWindow (CPPOOU3.4181)
+ 0000:00000000  Imp  __ct__11IStaticTextFUlP7IWindowT2RC10IRectangleRCQ2_11IStaticText5Style (CPPOOU3.5831)
+ 0000:00000000  Imp  foregroundColor__7IWindowCFv (CPPOOU3.4207)
+ 0000:00000000  Imp  resetBorderColor__7IWindowFv (CPPOOU3.4198)
+ 0000:00000000  Imp  resetShadowColor__7IWindowFv (CPPOOU3.4183)
+ 0000:00000000  Imp  positionBehindSibling__7IWindowFRC13IWindowHandle (CPPOOU3.4188)
+ 0000:00000000  Imp  setId__7IWindowFUl   (CPPOOU3.4159)
+ 0000:00000000  Imp  setResult__12IFrameWindowFUl (CPPOOU3.3116)
+ 0000:00000000  Imp  _fpninit             (CPPOM30._fpninit)
+ 0000:00000000  Imp  __wDestructSOMBase   (CPPOM30.__wDestructSOMBase)
+ 0000:00000000  Imp  handleFor__12IFrameWindowCFRCQ2_12IFrameWindow5Style (CPPOOU3.3051)
+ 0000:00000000  Imp  setIcon__12IFrameWindowFRC14IPointerHandle (CPPOOU3.3156)
+ 0000:00000000  Imp  setLayoutDistorted__12IFrameWindowFUlT1 (CPPOOU3.3134)
+ 0000:00000000  Imp  _environ             (CPPOM30._environ)
+ 0000:00000000  Imp  __dt__9IObserverFv   (CPPOOB3.383)
+ 0000:00000000  Imp  defaultStyle__11IStaticTextFv (CPPOOU3.5800)
+ 0000:00000000  Imp  localtime            (CPPOM30.localtime)
+ 0000:00000000  Imp  resetHiliteForegroundColor__7IWindowFv (CPPOOU3.4197)
+ 0000:00000000  Imp  layoutAdjustment__7IWindowCFv (CPPOOU3.4102)
+ 0000:00000000  Imp  defaultStyle__11IPushButtonFv (CPPOOU3.5437)
+ 0000:00000000  Imp  _matherr             (CPPOM30._matherr)
+ 0000:00000000  Imp  restoreRect__12IFrameWindowCFv (CPPOOU3.3168)
+ 0000:00000000  Imp  __CurrentException   (CPPOM30.__CurrentException)
+ 0000:00000000  Imp  _fltused             (CPPOM30._fltused)
+ 0000:00000000  Imp  __ct__6IColorFQ2_6IColor5Color (CPPOOU3.2787)
+ 0000:00000000  Imp  _fpreset             (CPPOM30._fpreset)
+ 0000:00000000  Imp  removeExtension__12IFrameWindowFP7IWindowi (CPPOOU3.3147)
+ 0000:00000000  Imp  __CatchMatch         (CPPOM30.__CatchMatch)
+ 0000:00000000  Imp  activeColor__7IWindowCFv (CPPOOU3.4213)
+ 0000:00000000  Imp  icon__12IFrameWindowCFv (CPPOOU3.3106)
+ 0000:00000000  Imp  isLayoutDistorted__7IWindowCFUl (CPPOOU3.4082)
+ 0000:00000000  Imp  __dt__12IFrameWindowFv (CPPOOU3.3070)
+ 0000:00000000  Imp  setExtensionSize__12IFrameWindowFP7IWindowUl (CPPOOU3.3049)
+ 0000:00000000  Imp  setAutoDeleteObject__7IWindowFi (CPPOOU3.4071)
+ 0000:00000000  Imp  minimizeRect__12IFrameWindowCFv (CPPOOU3.3065)
+ 0000:00000000  Imp  isAutoDeleteTarget__20IVBVariableClassBaseCFv (CPPOOV3.103)
+ 0000:00000000  Imp  setRestoreRect__12IFrameWindowFRC10IRectangle (CPPOOU3.3076)
+ 0000:00000000  Imp  setMinimumSize__7IWindowFRC5ISize (CPPOOU3.4075)
+ 0000:00000000  Imp  addObserver__17IStandardNotifierFR9IObserverRC10IEventData (CPPOOB3.459)
+ 0000:00000000  Imp  backgroundColor__12IFrameWindowCFv (CPPOOU3.3151)
+ 0000:00000000  Imp  frameRectFor__12IFrameWindowCFRC10IRectangle (CPPOOU3.3059)
+ 0000:00000000  Imp  clientRectFor__12IFrameWindowCFRC10IRectangle (CPPOOU3.3064)
+ 0000:00000000  Imp  defaultStyle__7ICanvasFv (CPPOOU3.4643)
+ 0000:00000000  Imp  shadowColor__7IWindowCFv (CPPOOU3.4219)
+ 0000:00000000  Imp  enableUpdate__7IWindowFi (CPPOOU3.4143)
+ 0000:00000000  Imp  asDebugInfo__6IVBaseCFv (CPPOOB3.631)
+ 0000:00000000  Imp  restore__12IFrameWindowFv (CPPOOU3.3061)
+ 0000:00000000  Imp  current__12IApplicationFv (CPPOOU3.2727)
+ 0000:00000000  Imp  asDebugInfo__7IWindowCFv (CPPOOU3.4232)
+ 0000:00000000  Imp  postEvent__7IWindowCFRC6IEvent (CPPOOU3.4099)
+ 0000:00000000  Imp  _PrintErrMsg         (CPPOM30._PrintErrMsg)
+ 0000:00000000  Imp  presSpace__7IWindowCFv (CPPOOU3.4139)
+ 0000:00000000  Imp  targetId__20IVBVariableClassBase (CPPOOV3.100)
+ 0000:00000000  Imp  setHiliteBackgroundColor__7IWindowFRC6IColor (CPPOOU3.4196)
+ 0000:00000000  Imp  setExtensionSize__12IFrameWindowFP7IWindowi (CPPOOU3.3084)
+ 0000:00000000  Imp  hasPointerCaptured__7IWindowCFv (CPPOOU3.4164)
+ 0000:00000000  Imp  refresh__7IWindowFRC10IRectanglei (CPPOOU3.4103)
+ 0000:00000000  Imp  setExtensionSize__12IFrameWindowFP7IWindowd (CPPOOU3.3081)
+ 0000:00000000  Imp  _exception_procinit  (CPPOM30._exception_procinit)
+ 0000:00000000  Imp  disableNotification__7IWindowFv (CPPOOU3.4248)
+ 0000:00000000  Imp  __Invoke__Destructor (CPPOM30.__Invoke__Destructor)
+ 0000:00000000  Imp  show__12IFrameWindowFi (CPPOOU3.3099)
+ 0000:00000000  Imp  DosExitList          (DOSCALLS.296)
+ 0000:00000000  Imp  isTabStop__7IWindowCFv (CPPOOU3.4128)
+ 0000:00000000  Imp  setHiliteForegroundColor__7IWindowFRC6IColor (CPPOOU3.4179)
+ 0000:00000000  Imp  positionOnSiblings__7IWindowFv (CPPOOU3.4205)
+ 0000:00000000  Imp  notifyOwner__12IFrameWindowFUlQ2_13ICommandEvent6Sourcei (CPPOOU3.3137)
+ 0000:00000000  Imp  __ct__8IListBoxFUlP7IWindowT2RC10IRectangleRCQ2_8IListBox5Style (CPPOOU3.5099)
+ 0000:00000000  Imp  clientHandle__12IFrameWindowCFv (CPPOOU3.3085)
+ 0000:00000000  Imp  dayOfMonth__5IDateCFv (CPPOOB3.194)
+ 0000:00000000  Imp  __RestoreRegsAndJump (CPPOM30.__RestoreRegsAndJump)
+ 0000:00000000  Imp  defaultPushButton__7IWindowCFv (CPPOOU3.4123)
+ 0000:00000000  Imp  stopHandlingNotificationsFor__9IObserverFR9INotifier (CPPOOB3.381)
+ 0000:00000000  Imp  setAutoDeleteTarget__20IVBVariableClassBaseFi (CPPOOV3.104)
+ 0000:00000000  Imp  borderColor__7IWindowCFv (CPPOOU3.4194)
+ 0000:00000000  Imp  monthOfYear__5IDateCFv (CPPOOB3.197)
+ 0000:00000000  Imp  DosUnsetExceptionHandler (DOSCALLS.355)
+ 0000:00000000  Imp  addExtension__12IFrameWindowFP7IWindowQ2_12IFrameWindow8LocationUlQ2_12IFrameWindow13SeparatorType (CPPOOU3.3169)
+ 0000:00000000  Imp  resetDisabledBackgroundColor__12IFrameWindowFv (CPPOOU3.3100)
+ 0000:00000000  Imp  hiliteForegroundColor__7IWindowCFv (CPPOOU3.4209)
+ 0000:00000000  Imp  minimum__5IPairCFRC5IPair (CPPOOB3.410)
+ 0000:00000000  Imp  resetForegroundColor__7IWindowFv (CPPOOU3.4229)
+ 0000:00000000  Imp  setActiveColor__7IWindowFRC6IColor (CPPOOU3.4221)
+ 0000:00000000  Imp  setBorderColor__7IWindowFRC6IColor (CPPOOU3.4223)
+ 0000:00000000  Imp  mousePointer__12IFrameWindowCFv (CPPOOU3.3150)
+ 0000:00000000  Imp  maximum__5IPairCFRC5IPair (CPPOOB3.411)
+ 0000:00000000  Imp  free                 (CPPOM30.free)
+ 0000:00000000  Imp  hiliteBackgroundColor__7IWindowCFv (CPPOOU3.4215)
+ 0000:00000000  Imp  beginFlashing__12IFrameWindowFv (CPPOOU3.3098)
+ 0000:00000000  Imp  positionBehindSiblings__7IWindowFv (CPPOOU3.4186)
+ 0000:00000000  Imp  client__12IFrameWindowCFv (CPPOOU3.3055)
+ 0000:00000000  Imp  addToWindowList__12IFrameWindowFv (CPPOOU3.3170)
+ 0000:00000000  Imp  observerList__7IWindowCFv (CPPOOU3.4259)
+ 0000:00000000  Imp  time                 (CPPOM30.time)
+ 0000:00000000  Imp  textId__12ITextControl (CPPOOU3.5849)
+ 0000:00000000  Imp  defaultStyle__15IAnimatedButtonFv (CPPOOU3.7887)
+ 0000:00000000  Imp  __ct__12IFrameWindowFRC11IResourceIdP7IWindowT2RC10IRectangleRCQ2_12IFrameWindow5StylePCc (CPPOOU3.3128)
+ 0000:00000000  Imp  DosSetExceptionHandler (DOSCALLS.354)
+ 0000:00000000  Imp  notifyObservers__7IWindowFRCPCc (CPPOOU3.4256)
+ 0000:00000000  Imp  setIcon__12IFrameWindowFUl (CPPOOU3.3080)
+ 0000:00000000  Imp  __as__7IStringFRC7IString (CPPOOB3.535)
+ 0000:00000000  Imp  update__12IFrameWindowFv (CPPOOU3.3063)
+ 0000:00000000  Imp  buttonClickId__7IButton (CPPOOU3.4635)
+ 0000:00000000  Imp  result__12IFrameWindowCFv (CPPOOU3.3054)
+ 0000:00000000  Imp  close__12IFrameWindowFv (CPPOOU3.3162)
+ 0000:00000000  Imp  resetFont__7IWindowFv (CPPOOU3.4107)
+ 0000:00000000  Imp  __CleanupCatch       (CPPOM30.__CleanupCatch)
+ 0000:00000000  Imp  exit                 (CPPOM30.exit)
+ 0000:00000000  Imp  setShadowColor__7IWindowFRC6IColor (CPPOOU3.4217)
+ 0000:00000000  Imp  maximizeRect__12IFrameWindowCFv (CPPOOU3.3146)
+ 0000:00000000  Imp  __ct__7IStringFRC7IString (CPPOOB3.540)
+ 0001:00000000       main
+ 0001:000002C4       __ct__28CalAppCalendarFactoryFactoryFUl
+ 0001:00000368       __dt__28CalAppCalendarFactoryFactoryFv
+ 0001:00000414       create__28CalAppCalendarFactoryFactoryFv
+ 0001:000005CC       defaultFramingSpec__6CalAppFv
+ 0001:0000065C       defaultStyle__6CalAppFv
+ 0001:00000680       defaultTitle__6CalAppFv
+ 0001:0000069C       __ct__6CalAppFUlP7IWindowT2RC10IRectangleRCQ2_12IFrameWindow5StylePCc
+ 0001:00000EC4       __dt__6CalAppFv
+ 0001:000012F8       initializePart__6CalAppFv
+ 0001:000013CC       makeConnections__6CalAppFv
+ 0001:00002790       defaultFramingSpec__8CalendarFv
+ 0001:00002820       defaultTitle__8CalendarFv
+ 0001:0000283C       __ct__8CalendarFUlP7IWindowT2RC10IRectangleRCQ2_12IFrameWindow5StylePCc
+ 0001:00009154       __dt__8CalendarFv
+ 0001:0000DDC8       initializePart__8CalendarFv
+ 0001:0000DED4       makeConnections__8CalendarFv
+ 0001:00012138       dispatchNotificationEvent__8CalendarFRC18INotificationEvent
+ 0001:0002A364       __ct__7CalCtrlFv
+ 0001:0002A7DC       __dt__7CalCtrlFv
+ 0001:0002AE4C       initializePart__7CalCtrlFv
+ 0001:0002AF1C       makeConnections__7CalCtrlFv
+ 0001:0002AF4C       MonthName__7CalCtrlCFv
+ 0001:0002AF6C       setMonthName__7CalCtrlFRC7IString
+ 0001:0002B118       YearString__7CalCtrlCFv
+ 0001:0002B138       setYearString__7CalCtrlFRC7IString
+ 0001:0002B22C       calInit__7CalCtrlFv
+ 0001:0002B324       calMonthInit__7CalCtrlFv
+ 0001:0002B6D0       calSetBttns__7CalCtrlFv
+ 0001:0002D890       calNextMo__7CalCtrlFv
+ 0001:0002D8F4       calPrevMo__7CalCtrlFv
+ 0001:0002D930       calNextYr__7CalCtrlFv
+ 0001:0002D96C       calPrevYr__7CalCtrlFv
+ 0001:0002D9A8       BttnTxt1__7CalCtrlCFv
+ 0001:0002D9C8       setBttnTxt1__7CalCtrlFRC7IString
+ 0001:0002DABC       BttnTxt2__7CalCtrlCFv
+ 0001:0002DADC       setBttnTxt2__7CalCtrlFRC7IString
+ 0001:0002DBD0       BttnTxt3__7CalCtrlCFv
+ 0001:0002DBF0       setBttnTxt3__7CalCtrlFRC7IString
+ 0001:0002DCE4       BttnTxt4__7CalCtrlCFv
+ 0001:0002DD04       setBttnTxt4__7CalCtrlFRC7IString
+ 0001:0002DDF8       BttnTxt5__7CalCtrlCFv
+ 0001:0002DE18       setBttnTxt5__7CalCtrlFRC7IString
+ 0001:0002DF0C       BttnTxt6__7CalCtrlCFv
+ 0001:0002DF2C       setBttnTxt6__7CalCtrlFRC7IString
+ 0001:0002E020       BttnTxt7__7CalCtrlCFv
+ 0001:0002E040       setBttnTxt7__7CalCtrlFRC7IString
+ 0001:0002E134       BttnTxt8__7CalCtrlCFv
+ 0001:0002E154       setBttnTxt8__7CalCtrlFRC7IString
+ 0001:0002E248       BttnTxt9__7CalCtrlCFv
+ 0001:0002E268       setBttnTxt9__7CalCtrlFRC7IString
+ 0001:0002E35C       BttnTxt10__7CalCtrlCFv
+ 0001:0002E37C       setBttnTxt10__7CalCtrlFRC7IString
+ 0001:0002E470       BttnTxt11__7CalCtrlCFv
+ 0001:0002E490       setBttnTxt11__7CalCtrlFRC7IString
+ 0001:0002E584       BttnTxt12__7CalCtrlCFv
+ 0001:0002E5A4       setBttnTxt12__7CalCtrlFRC7IString
+ 0001:0002E698       BttnTxt13__7CalCtrlCFv
+ 0001:0002E6B8       setBttnTxt13__7CalCtrlFRC7IString
+ 0001:0002E7AC       BttnTxt14__7CalCtrlCFv
+ 0001:0002E7CC       setBttnTxt14__7CalCtrlFRC7IString
+ 0001:0002E8C0       BttnTxt15__7CalCtrlCFv
+ 0001:0002E8E0       setBttnTxt15__7CalCtrlFRC7IString
+ 0001:0002E9D4       BttnTxt16__7CalCtrlCFv
+ 0001:0002E9F4       setBttnTxt16__7CalCtrlFRC7IString
+ 0001:0002EAE8       BttnTxt17__7CalCtrlCFv
+ 0001:0002EB08       setBttnTxt17__7CalCtrlFRC7IString
+ 0001:0002EBFC       BttnTxt18__7CalCtrlCFv
+ 0001:0002EC1C       setBttnTxt18__7CalCtrlFRC7IString
+ 0001:0002ED10       BttnTxt19__7CalCtrlCFv
+ 0001:0002ED30       setBttnTxt19__7CalCtrlFRC7IString
+ 0001:0002EE24       BttnTxt20__7CalCtrlCFv
+ 0001:0002EE44       setBttnTxt20__7CalCtrlFRC7IString
+ 0001:0002EF38       BttnTxt21__7CalCtrlCFv
+ 0001:0002EF58       setBttnTxt21__7CalCtrlFRC7IString
+ 0001:0002F04C       BttnTxt22__7CalCtrlCFv
+ 0001:0002F06C       setBttnTxt22__7CalCtrlFRC7IString
+ 0001:0002F160       BttnTxt23__7CalCtrlCFv
+ 0001:0002F180       setBttnTxt23__7CalCtrlFRC7IString
+ 0001:0002F274       BttnTxt24__7CalCtrlCFv
+ 0001:0002F294       setBttnTxt24__7CalCtrlFRC7IString
+ 0001:0002F388       BttnTxt25__7CalCtrlCFv
+ 0001:0002F3AC       setBttnTxt25__7CalCtrlFRC7IString
+ 0001:0002F4A4       BttnTxt26__7CalCtrlCFv
+ 0001:0002F4C8       setBttnTxt26__7CalCtrlFRC7IString
+ 0001:0002F5C0       BttnTxt27__7CalCtrlCFv
+ 0001:0002F5E4       setBttnTxt27__7CalCtrlFRC7IString
+ 0001:0002F6DC       BttnTxt28__7CalCtrlCFv
+ 0001:0002F700       setBttnTxt28__7CalCtrlFRC7IString
+ 0001:0002F7F8       BttnTxt29__7CalCtrlCFv
+ 0001:0002F81C       setBttnTxt29__7CalCtrlFRC7IString
+ 0001:0002F914       BttnTxt30__7CalCtrlCFv
+ 0001:0002F938       setBttnTxt30__7CalCtrlFRC7IString
+ 0001:0002FA30       BttnTxt31__7CalCtrlCFv
+ 0001:0002FA54       setBttnTxt31__7CalCtrlFRC7IString
+ 0001:0002FB4C       BttnTxt32__7CalCtrlCFv
+ 0001:0002FB70       setBttnTxt32__7CalCtrlFRC7IString
+ 0001:0002FC68       BttnTxt33__7CalCtrlCFv
+ 0001:0002FC8C       setBttnTxt33__7CalCtrlFRC7IString
+ 0001:0002FD84       BttnTxt34__7CalCtrlCFv
+ 0001:0002FDA8       setBttnTxt34__7CalCtrlFRC7IString
+ 0001:0002FEA0       BttnTxt35__7CalCtrlCFv
+ 0001:0002FEC4       setBttnTxt35__7CalCtrlFRC7IString
+ 0001:0002FFBC       BttnTxt36__7CalCtrlCFv
+ 0001:0002FFE0       setBttnTxt36__7CalCtrlFRC7IString
+ 0001:000300D8       BttnTxt37__7CalCtrlCFv
+ 0001:000300FC       setBttnTxt37__7CalCtrlFRC7IString
+ 0001:000301F4       SelectedDay__7CalCtrlCFv
+ 0001:00030214       setSelectedDay__7CalCtrlFRC7IString
+ 0001:0003065C       SelectedyyyymmddString__7CalCtrlCFv
+ 0001:0003067C       setSelectedyyyymmddString__7CalCtrlFRC7IString
+ 0001:0003095C       __ct__9CalSelectFv
+ 0001:000309E8       __dt__9CalSelectFv
+ 0001:00030AA0       initializePart__9CalSelectFv
+ 0001:00030B70       makeConnections__9CalSelectFv
+ 0001:00030BA0       CalSelectedDay__9CalSelectCFv
+ 0001:00030BC0       setCalSelectedDay__9CalSelectFRC7IString
+ 0001:00030D80       __ct__8CalResetFv
+ 0001:00030DF4       __dt__8CalResetFv
+ 0001:00030E88       initializePart__8CalResetFv
+ 0001:00030F58       makeConnections__8CalResetFv
+ 0001:00030F88       calReset__8CalResetFv
+ 0001:0003105C       _Exception_CPP
+ 0001:00031530       _exestart
+ 0001:000315BC       __RunExitList
+ 0001:000315EC       _cppinit
+ 0001:000315F4       _setuparg
+ 0001:000317EC       __sctordtorInit
+ 0001:000317F4       __sctordtorTerm
+ 0001:000317FC       __wctordtorInit
+ 0001:00031800       __wctordtorTerm
+ 0001:00031804       targetPtr__22IVBVariablePartPointerXTP8Calendar_CFv
+ 0001:00031814       deleteTarget__22IVBVariablePartPointerXTP8Calendar_Fv
+ 0001:000319BC       dispatchNotificationEvent__22IVBVariablePartPointerXTP8Calendar_FRC18INotificationEvent
+ 0001:00031A18       __dt__22IVBVariablePartPointerXTP8Calendar_Fv
+ 0001:00031B20       __ct__22IVBVariablePartPointerXTP8Calendar_Fv
+ 0001:00031BA8       setTarget__22IVBVariablePartPointerXTP8Calendar_FP8Calendar
+ 0001:00031DD4       target__22IVBVariablePartPointerXTP8Calendar_CFv
+ 0002:000000B0       newObjectCreatedId__28CalAppCalendarFactoryFactory
+ 0002:000000B4       readyId__6CalApp
+ 0002:000001DC       readyId__8Calendar
+ 0002:000001E0       CalDateSelected__8Calendar
+ 0002:000001E4       CalDateString__8Calendar
+ 0002:000001E8       CalyyyymmddString__8Calendar
+ 0002:000006A8       readyId__7CalCtrl
+ 0002:000006DC       readyId__9CalSelect
+ 0002:0000070C       readyId__8CalReset
+ 0004:00000000       __vft6CalApp6IVBase
+ 0004:00000890       __vft28CalAppCalendarFactoryFactory6IVBase
+ 0004:00000930       __vft22IVBVariablePartPointerXTP8Calendar_9INotifier6IVBase
+ 0004:000009E0       __vft22IVBVariablePartPointerXTP8Calendar_9IObserver6IVBase
+ 0004:00000A18       __vft8Calendar9IObserver6IVBase
+ 0004:00000A50       __vft8Calendar9INotifier6IVBase
+ 0004:00005B88       __vft7CalCtrl6IVBase
+ 0004:00005EF8       __vft9CalSelect6IVBase
+ 0004:00005FB0       __vft8CalReset6IVBase
+ 0005:00000000       MonthNameId__7CalCtrl
+ 0005:00000004       YearStringId__7CalCtrl
+ 0005:00000008       BttnTxt1Id__7CalCtrl
+ 0005:0000000C       BttnTxt2Id__7CalCtrl
+ 0005:00000010       BttnTxt3Id__7CalCtrl
+ 0005:00000014       BttnTxt4Id__7CalCtrl
+ 0005:00000018       BttnTxt5Id__7CalCtrl
+ 0005:0000001C       BttnTxt6Id__7CalCtrl
+ 0005:00000020       BttnTxt7Id__7CalCtrl
+ 0005:00000024       BttnTxt8Id__7CalCtrl
+ 0005:00000028       BttnTxt9Id__7CalCtrl
+ 0005:0000002C       BttnTxt10Id__7CalCtrl
+ 0005:00000030       BttnTxt11Id__7CalCtrl
+ 0005:00000034       BttnTxt12Id__7CalCtrl
+ 0005:00000038       BttnTxt13Id__7CalCtrl
+ 0005:0000003C       BttnTxt14Id__7CalCtrl
+ 0005:00000040       BttnTxt15Id__7CalCtrl
+ 0005:00000044       BttnTxt16Id__7CalCtrl
+ 0005:00000048       BttnTxt17Id__7CalCtrl
+ 0005:0000004C       BttnTxt18Id__7CalCtrl
+ 0005:00000050       BttnTxt19Id__7CalCtrl
+ 0005:00000054       BttnTxt20Id__7CalCtrl
+ 0005:00000058       BttnTxt21Id__7CalCtrl
+ 0005:0000005C       BttnTxt22Id__7CalCtrl
+ 0005:00000060       BttnTxt23Id__7CalCtrl
+ 0005:00000064       BttnTxt24Id__7CalCtrl
+ 0005:00000068       BttnTxt25Id__7CalCtrl
+ 0005:0000006C       BttnTxt26Id__7CalCtrl
+ 0005:00000070       BttnTxt27Id__7CalCtrl
+ 0005:00000074       BttnTxt28Id__7CalCtrl
+ 0005:00000078       BttnTxt29Id__7CalCtrl
+ 0005:0000007C       BttnTxt30Id__7CalCtrl
+ 0005:00000080       BttnTxt31Id__7CalCtrl
+ 0005:00000084       BttnTxt32Id__7CalCtrl
+ 0005:00000088       BttnTxt33Id__7CalCtrl
+ 0005:0000008C       BttnTxt34Id__7CalCtrl
+ 0005:00000090       BttnTxt35Id__7CalCtrl
+ 0005:00000094       BttnTxt36Id__7CalCtrl
+ 0005:00000098       BttnTxt37Id__7CalCtrl
+ 0005:0000009C       calReadyId__7CalCtrl
+ 0005:000000A0       calDisA1Id__7CalCtrl
+ 0005:000000A4       calDisA2Id__7CalCtrl
+ 0005:000000A8       calDisA3Id__7CalCtrl
+ 0005:000000AC       calDisA4Id__7CalCtrl
+ 0005:000000B0       calDisA5Id__7CalCtrl
+ 0005:000000B4       calDisA6Id__7CalCtrl
+ 0005:000000B8       calDisA29Id__7CalCtrl
+ 0005:000000BC       calDisA30Id__7CalCtrl
+ 0005:000000C0       calDisA31Id__7CalCtrl
+ 0005:000000C4       calDisA32Id__7CalCtrl
+ 0005:000000C8       calDisA33Id__7CalCtrl
+ 0005:000000CC       calDisA34Id__7CalCtrl
+ 0005:000000D0       calDisA35Id__7CalCtrl
+ 0005:000000D4       calDisA36Id__7CalCtrl
+ 0005:000000D8       calDisA37Id__7CalCtrl
+ 0005:000000DC       calDateSelectedId__7CalCtrl
+ 0005:000000E0       SelectedDayId__7CalCtrl
+ 0005:000000E4       SelectedyyyymmddStringId__7CalCtrl
+ 0005:000000E8       CalSelectedDayId__9CalSelect
+ 0005:000000EC       resetBttnsId__8CalReset
+ 0005:000000F0       _exeentry
+ 0005:0000011C       partWindowId__6CalApp
+ 0005:0000011C       _edata
+ 0005:00000120       partWindowId__8Calendar
+ 0005:00000124       _argc
+ 0005:00000128       _argv
+ 0005:0000012C       _matherr_ptr
+ 0005:00000130       _end
+
+Program entry point at 0001:00031530

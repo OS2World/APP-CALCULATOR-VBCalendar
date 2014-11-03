@@ -1,0 +1,34 @@
+// Feature source code generation begins here...
+public:
+  virtual IString CalSetDate() const;
+  virtual CalSet& setCalSetDate(const IString& aCalSetDate);
+  virtual IString CalSetYear() const;
+  virtual CalSet& setCalSetYear(const IString& aCalSetYear);
+  virtual IString CalSetColor() const;
+  virtual CalSet& setCalSetColor(const IString& aCalSetColor);
+  virtual IString CalSetUpString() const;
+  virtual CalSet& setCalSetUpString(const IString& aCalSetUpString);
+  virtual IString CalSetAddChangeDate() const;
+  virtual CalSet& setCalSetAddChangeDate(const IString& aCalSetAddChangeDate);
+  virtual IString CalSetDeleteDate() const;
+  virtual CalSet& setCalSetDeleteDate(const IString& aCalSetDeleteDate);
+  virtual int calSetAddChange();
+  virtual int calSetDelete();
+  virtual int calSetRead();
+
+  static INotificationId CalSetDateId;
+  static INotificationId CalSetYearId;
+  static INotificationId CalSetColorId;
+  static INotificationId CalSetUpStringId;
+  static INotificationId CalSetAddChangeDateId;
+  static INotificationId CalSetDeleteDateId;
+
+private:
+  IString iCalSetDate;
+  IString iCalSetYear;
+  IString iCalSetColor;
+  IString iCalSetUpString;
+  IString iCalSetAddChangeDate;
+  IString iCalSetDeleteDate;
+// Feature source code generation ends here.
+

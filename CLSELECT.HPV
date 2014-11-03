@@ -1,0 +1,12 @@
+
+
+// Feature source code generation begins here...
+public:
+  virtual IString CalSelectedDay() const;
+  virtual CalSelect& setCalSelectedDay(const IString& aCalSelectedDay);
+
+  static INotificationId CalSelectedDayId;
+
+private:
+  IString iCalSelectedDay;
+// Feature source code generation ends here.
