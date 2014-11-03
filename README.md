@@ -1,4 +1,23 @@
 APP-CALCULATOR-VBCalendar
 =========================
 
-VBCalendar - Simple to use popup calendar. Includes vbb to drop into your application.
+VBCalendar/CalPr - Simple to use popup calendar. Includes vbb to drop into your application.
+
+LICENSE
+===============
+* Shareware
+
+COMPILE TOOLS
+===============
+* VisualAge C++ Visual Builder
+* 
+ 
+AUTHORS
+===============
+* Don Henderson
+
+LINKS
+===============
+* 
+
+
