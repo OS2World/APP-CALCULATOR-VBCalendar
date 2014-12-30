@@ -1,4 +1,4 @@
-APP-CALCULATOR-VBCalendar
+APP-CALENDAR-VBCalendar
 =========================
 
 VBCalendar/CalPr - Simple to use popup calendar. Includes vbb to drop into your application.
